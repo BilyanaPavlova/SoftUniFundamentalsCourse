@@ -1,4 +1,4 @@
-package Exercise_Basic_Syntax_Con_Statm_Loops;
+package Ex1_BasicSyntaxConStatmLoops;
 
 import java.util.Scanner;
 

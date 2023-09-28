@@ -4,31 +4,36 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUniFundamentals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic_Syntax_Conditional_Statements_Loops/Task_10.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic_Syntax_Conditional_Statements_Loops/Task_11.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Basic_Syntax_Conditional_Statements_Loops/Task_12.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Data_Types/Task.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Algoritam_Factoriel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Algorithm_Digits_Of_Number.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Important" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_6_Factoriel_DigitsOfNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/TasksLink" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Firs commit">
+      <change afterPath="$PROJECT_DIR$/src/Lec3_Arrays/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec3_Arrays/Task_6.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec3_Arrays/Task_7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic_Syntax_Conditional_Statements_Loops/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec1_BasicSyntaxConditionalStatementsLoops/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic_Syntax_Conditional_Statements_Loops/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec1_BasicSyntaxConditionalStatementsLoops/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Basic_Syntax_Conditional_Statements_Loops/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec1_BasicSyntaxConditionalStatementsLoops/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Data_Types/Task.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Algoritam_Factoriel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Algoritam_Factoriel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Algorithm_Digits_Of_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Algorithm_Digits_Of_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Important" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Important" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_6_Factoriel_DigitsOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Task_6_Factoriel_DigitsOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/TasksLink" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/TasksLink" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -43,13 +48,62 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals"
+    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals",
+    "settings.editor.selected.configurable": "vcs.Git"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+  </component>
+  <component name="RunManager" selected="Application.Task_7">
+    <configuration name="Task_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec3_Arrays.Task_5" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec3_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec3_Arrays.Task_6" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec3_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task_7" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec3_Arrays.Task_7" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec3_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Task_7" />
+        <item itemvalue="Application.Task_6" />
+        <item itemvalue="Application.Task_5" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -60,6 +114,18 @@
       <option name="presentableId" value="Default" />
       <updated>1695895843089</updated>
     </task>
+    <task id="LOCAL-00001" summary="Firs commit">
+      <created>1695896815148</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695896815148</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Firs commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="Firs commit" />
   </component>
 </project>
