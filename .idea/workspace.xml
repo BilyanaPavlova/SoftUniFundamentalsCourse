@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SoftUniFundamentals.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic_Syntax_Conditional_Statements_Loops/Task_10.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic_Syntax_Conditional_Statements_Loops/Task_11.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Basic_Syntax_Conditional_Statements_Loops/Task_12.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Data_Types/Task.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Algoritam_Factoriel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Algorithm_Digits_Of_Number.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Important" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/Task_6_Factoriel_DigitsOfNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Exercise_Basic_Syntax_Con_Statm_Loops/TasksLink" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2W1MsIFmr6uf5z9CGelcC6D6iPL" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="" />
+      <created>1695895843089</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1695895843089</updated>
+    </task>
+    <servers />
+  </component>
+</project>
