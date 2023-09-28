@@ -3,7 +3,7 @@ package Lec3_Arrays;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Task_7 {
+public class Task_7_Condensed {
 
     public static void main(String[] args) {
 
