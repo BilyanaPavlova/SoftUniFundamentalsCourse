@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Renamed Task 7 to reflect the task title">
-      <change afterPath="$PROJECT_DIR$/src/Lec3_Arrays/Task_4_Reverse_An_Array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec3_Arrays/Tasks" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Added Tasks file">
+      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Notes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Task2_CompareArrElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Task3_RearrangeZIgZag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Task4_ArrayRotation.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,35 +45,48 @@
       <recent name="$PROJECT_DIR$" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Task_4_Reverse_An_Array">
+  <component name="RunManager" selected="Application.Task4_ArrayRotation">
+    <configuration name="Task2_CompareArrElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.Task2_CompareArrElements" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex3_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task3_RearrangeZIgZag" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.Task3_RearrangeZIgZag" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex3_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Task4_ArrayRotation" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.Task4_ArrayRotation" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Ex3_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task_4_Reverse_An_Array" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Lec3_Arrays.Task_4_Reverse_An_Array" />
-      <module name="SoftUniFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lec3_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_5" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec3_Arrays.Task_5" />
-      <module name="SoftUniFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lec3_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Task_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec3_Arrays.Task_6" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -99,10 +113,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Task4_ArrayRotation" />
+        <item itemvalue="Application.Task3_RearrangeZIgZag" />
+        <item itemvalue="Application.Task2_CompareArrElements" />
         <item itemvalue="Application.Task_4_Reverse_An_Array" />
         <item itemvalue="Application.Task_7_Condensed" />
-        <item itemvalue="Application.Task_6" />
-        <item itemvalue="Application.Task_5" />
       </list>
     </recent_temporary>
   </component>
@@ -136,13 +151,21 @@
       <option name="project" value="LOCAL" />
       <updated>1695915672514</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added Tasks file">
+      <created>1695985252329</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1695985252329</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Firs commit" />
     <MESSAGE value="Renamed Task 7 to reflect the task title" />
-    <option name="LAST_COMMIT_MESSAGE" value="Renamed Task 7 to reflect the task title" />
+    <MESSAGE value="Added Tasks file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added Tasks file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
