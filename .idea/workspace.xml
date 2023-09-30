@@ -4,12 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Added Tasks file">
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Notes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Task2_CompareArrElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Task3_RearrangeZIgZag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Task4_ArrayRotation.java" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Adding excersises on Arrays - operations with arrayas">
+      <change afterPath="$PROJECT_DIR$/src/Lec3_Arrays/DataStructBookExample1_delete_remove_reorder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec3_Arrays/DataStructBookExample2_address.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec3_Arrays/Notes" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,8 +43,27 @@
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Lec3_Arrays" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Lec3_Arrays" />
+    </key>
   </component>
-  <component name="RunManager" selected="Application.Task4_ArrayRotation">
+  <component name="RunManager" selected="Application.DataStructBookExample1_delete_remove_reorder">
+    <configuration name="DataStructBookExample1_delete_remove_reorder" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec3_Arrays.DataStructBookExample1_delete_remove_reorder" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Lec3_Arrays.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Task2_CompareArrElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.Task2_CompareArrElements" />
       <module name="SoftUniFundamentals" />
@@ -98,26 +116,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task_7_Condensed" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec3_Arrays.Task_7_Condensed" />
-      <module name="SoftUniFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Lec3_Arrays.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DataStructBookExample1_delete_remove_reorder" />
         <item itemvalue="Application.Task4_ArrayRotation" />
         <item itemvalue="Application.Task3_RearrangeZIgZag" />
         <item itemvalue="Application.Task2_CompareArrElements" />
         <item itemvalue="Application.Task_4_Reverse_An_Array" />
-        <item itemvalue="Application.Task_7_Condensed" />
       </list>
     </recent_temporary>
   </component>
@@ -158,14 +163,22 @@
       <option name="project" value="LOCAL" />
       <updated>1695985252329</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Adding excersises on Arrays - operations with arrayas">
+      <created>1696016674704</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1696016674704</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Firs commit" />
     <MESSAGE value="Renamed Task 7 to reflect the task title" />
     <MESSAGE value="Added Tasks file" />
-    <option name="LAST_COMMIT_MESSAGE" value="Added Tasks file" />
+    <MESSAGE value="Adding excersises on Arrays - operations with arrayas" />
+    <option name="LAST_COMMIT_MESSAGE" value="Adding excersises on Arrays - operations with arrayas" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -174,6 +187,11 @@
           <url>file://$PROJECT_DIR$/src/Lec3_Arrays/Task_4_Reverse_An_Array.java</url>
           <line>16</line>
           <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec3_Arrays/DataStructBookExample1_delete_remove_reorder.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="3" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
