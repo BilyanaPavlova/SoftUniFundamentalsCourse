@@ -21,7 +21,7 @@ public class Task10_Lift {
 
 
             //if there are people and there are empty spots
-               if (people > 0 && totalPeopleInLift < cabins.length*4){
+               if (people > 0 && isEmptySpace){
                 for (int j = 0; j < cabins.length; j++) {
                     // for each cabin
                     int freePlaces = 4 - cabins[j];
@@ -41,30 +41,36 @@ public class Task10_Lift {
 
             for (int i = 0; i < cabins.length; i++) {
                 totalPeopleInLift += cabins[i]; // total number of the people in the lift
+                if (totalPeopleInLift >= cabins.length*4){
+                    isEmptySpace = false;
+                }
 
             }
 
                 //If the lift is full and there are no more people in the queu
-            if(totalPeopleInLift == cabins.length*4 && people == 0){
+            if(!isEmptySpace && people == 0){
                     System.out.println(Arrays.toString(cabins)
                             .replace("[", "")
-                            .replace("]", ""));
+                            .replace("]", "")
+                            .replace(",", ""));
                     return;
 
             } //If there are no more people and the lift has empty spot
-            else if (people == 0 && totalPeopleInLift < cabins.length*4) {
+            else if (people == 0 && isEmptySpace) {
                     System.out.println("The lift has empty spots!");
                     System.out.println(Arrays.toString(cabins)
                             .replace("[", "")
-                            .replace("]", ""));
+                            .replace("]", "")
+                            .replace(",", ""));
                     return;
             }
 //          If there are still people in the queue and no more available space
-            else if (people > 0 && totalPeopleInLift == cabins.length*4){
+            else if (people > 0 && !isEmptySpace){
                     System.out.printf("There isn't enough space! %d people in a queue!\n", people);
                     System.out.println(Arrays.toString(cabins)
                             .replace("[", "")
-                            .replace("]", ""));
+                            .replace("]", "")
+                            .replace(",", ""));
                     return;
             }
         }
