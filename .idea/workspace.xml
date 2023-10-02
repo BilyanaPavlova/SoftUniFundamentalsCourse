@@ -4,13 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Task 10 - adding a boolean">
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/MoreTasksArrays" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Task1_Train_ScanningInput_Printing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Task2_CompareElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/Task9_ModifyArray.java" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Task10_BUBBLE_SORT">
+      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/MoreTasks_IMPORTANT_FUNCTIONS" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/MoreTasksArrays" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,7 +53,7 @@
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.More1_Sort">
+  <component name="RunManager" selected="Application.More6_LadyBugs">
     <configuration name="More1_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.More1_Sort" />
       <module name="SoftUniFundamentals" />
@@ -68,8 +67,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task10_Lift" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.Task10_Lift" />
+    <configuration name="More6_LadyBugs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.More6_LadyBugs" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -122,11 +121,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.More6_LadyBugs" />
         <item itemvalue="Application.More1_Sort" />
         <item itemvalue="Application.Task9_ModifyArray" />
         <item itemvalue="Application.Task2_CompareElements" />
         <item itemvalue="Application.Task1_Train_ScanningInput_Printing" />
-        <item itemvalue="Application.Task10_Lift" />
       </list>
     </recent_temporary>
   </component>
@@ -195,7 +194,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696151211964</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Task10_BUBBLE_SORT">
+      <created>1696263201512</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1696263201512</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -206,7 +212,8 @@
     <MESSAGE value="Adding excersises on Arrays - operations with arrays&#10;remove and reorder elements of an array" />
     <MESSAGE value="Task 10 - initial" />
     <MESSAGE value="Task 10 - adding a boolean" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task 10 - adding a boolean" />
+    <MESSAGE value="Task10_BUBBLE_SORT" />
+    <option name="LAST_COMMIT_MESSAGE" value="Task10_BUBBLE_SORT" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -240,6 +247,11 @@
           <url>file://$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java</url>
           <line>47</line>
           <option name="timeStamp" value="18" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="20" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

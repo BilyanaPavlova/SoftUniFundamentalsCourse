@@ -22,7 +22,7 @@ public class More1_Sort {
 
         // за всеки стринг в масива
         for (int j = 0; j < numStrings; j++) {
-            char[] charArray = strings[j].toCharArray();
+            char[] charArray = strings[j].toCharArray(); //обръща букви от стринг в арей
 
             // за всички букви от всеки отделен стринг
             // изчислява сума за всеки отделен стринг
@@ -79,24 +79,8 @@ public class More1_Sort {
     }
 
 
-    // BUBBLE SORT METHOD
-//    public static void bubbleSort(int[] arr) {
-//        int n = arr.length;
-//        boolean swapped;
-//        do {
-//            swapped = false;
-//            for (int i = 1; i < n; i++) {
-//                if (arr[i - 1] > arr[i]) {
-//                    // Swap arr[i-1] and arr[i]
-//                    int temp = arr[i - 1];
-//                    arr[i - 1] = arr[i];
-//                    arr[i] = temp;
-//                    swapped = true;
-//                }
-//            }
-//            n--; // Reduce the size of the unsorted portion
-//        } while (swapped);
-//    }
+
+
 
 
 }
