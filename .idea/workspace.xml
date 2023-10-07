@@ -4,25 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="LadyBugs - working 20% - before correction of data types">
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/BeerKegs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/Elevator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/Important&amp;Conditions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/IntegerOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/Pokemon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/PrintASCIIPart.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/Snowballs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/SpiceMustFlow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/SumDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/SumOfCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/TriplesOfLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/WaterOverflow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec2_DataTypes/SpecialNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec_HTML/html_example.html" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Excercise 2 on Data Types + Important Notes">
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/CharractersInRange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/CountVowels.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/FactorialDivision.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/MiddleChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/MinNum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/TopNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/DataTypes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/Datatypes1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniFundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniFundamentals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,13 +60,13 @@
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpecialNumbers">
-    <configuration name="BeerKegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2_DataTypes.BeerKegs" />
+  <component name="RunManager" selected="Application.Palindrome">
+    <configuration name="CharractersInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.CharractersInRange" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex2_DataTypes.*" />
+          <option name="PATTERN" value="Ex4_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -82,12 +74,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Pokemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2_DataTypes.Pokemon" />
+    <configuration name="FactorialDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.FactorialDivision" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex2_DataTypes.*" />
+          <option name="PATTERN" value="Ex4_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -95,12 +87,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Snowballs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2_DataTypes.Snowballs" />
+    <configuration name="MiddleChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.MiddleChars" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex2_DataTypes.*" />
+          <option name="PATTERN" value="Ex4_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpecialNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec2_DataTypes.SpecialNumbers" />
+    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.Palindrome" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec2_DataTypes.*" />
+          <option name="PATTERN" value="Ex4_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,12 +113,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiceMustFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex2_DataTypes.SpiceMustFlow" />
+    <configuration name="TopNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.TopNumbers" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex2_DataTypes.*" />
+          <option name="PATTERN" value="Ex4_Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -136,11 +128,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpecialNumbers" />
-        <item itemvalue="Application.Snowballs" />
-        <item itemvalue="Application.Pokemon" />
-        <item itemvalue="Application.SpiceMustFlow" />
-        <item itemvalue="Application.BeerKegs" />
+        <item itemvalue="Application.Palindrome" />
+        <item itemvalue="Application.TopNumbers" />
+        <item itemvalue="Application.MiddleChars" />
+        <item itemvalue="Application.FactorialDivision" />
+        <item itemvalue="Application.CharractersInRange" />
       </list>
     </recent_temporary>
   </component>
@@ -223,7 +215,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696278505849</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Excercise 2 on Data Types + Important Notes">
+      <created>1696685316667</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1696685316667</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,7 +235,8 @@
     <MESSAGE value="Task 10 - adding a boolean" />
     <MESSAGE value="Task10_BUBBLE_SORT" />
     <MESSAGE value="LadyBugs - working 20% - before correction of data types" />
-    <option name="LAST_COMMIT_MESSAGE" value="LadyBugs - working 20% - before correction of data types" />
+    <MESSAGE value="Excercise 2 on Data Types + Important Notes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Excercise 2 on Data Types + Important Notes" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -325,6 +325,30 @@
           <url>file://$PROJECT_DIR$/src/Lec2_DataTypes/SpecialNumbers.java</url>
           <line>10</line>
           <option name="timeStamp" value="34" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/DataTypes.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="35" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="36" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex4_Methods/TopNumbers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
+          <line>5</line>
+          <properties class="Ex4_Methods.Palindrome" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
