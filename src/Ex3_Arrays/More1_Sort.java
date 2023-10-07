@@ -33,7 +33,13 @@ public class More1_Sort {
                     case 'e':
 //                    case 'y':
                     case 'i':
-                    case 'u': {
+                    case 'u':
+                    case 'A':
+                    case 'O':
+                    case 'E':
+                    case 'U':
+                    case 'I':
+                        {
                         sum += (charArray[k] * charArray.length);
                     }
                     break;

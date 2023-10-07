@@ -9,6 +9,9 @@ public class More6_LadyBugs {
 
         //read the number of cells
         int n = Integer.parseInt(sc.nextLine());
+        if (n > 1000 || n < 0){
+            return;
+        }
 
         //creates an array
         int[] cells = new int[n];
@@ -21,15 +24,26 @@ public class More6_LadyBugs {
         // пълни масива с началните бъгс:
 
         for (int i = 0; i < bugsIndexes.length; i++) {
-            cells[bugsIndexes[i]] = 1; //клетка с индекс на буболечка
+            if (bugsIndexes[i] >= 0 && bugsIndexes[i] < 1000) {
+                cells[bugsIndexes[i]] = 1; //клетка с индекс на буболечка
+                System.out.println(cells[i]);
+            } else {
+                continue; //starts the loop with the next iteration
+            }
         }
 //        System.out.println(Arrays.toString(cells));
 
 
        String command = sc.nextLine();
         String [] commandArr = command.split(" ");
+        int numberOfCommands = 0;
 
         while (!command.equals("end")){
+
+            if (numberOfCommands == 1000){
+                return;
+            }
+
             //чете команда и намира индексите и посоката
 
             commandArr = command.split(" ");
@@ -41,17 +55,21 @@ public class More6_LadyBugs {
 
                 if (startIndex > n-1 || startIndex < 0){
                     command = sc.nextLine();
-                    continue; // skip the rest of the code in the loop
+                    continue; // skip the rest of the code in the while loop
                             // and starts the loop again with the next iteration
-
                 }
 
+//If you are given a ladybug index that does not have a ladybug there, nothing happens.
+                if (cells[startIndex] == 0){
+                    command = sc.nextLine();
+                    continue;
+                }
 
 
             if(direction.equals("right")){
 
                 if (((startIndex + aimedIndex ) >= n)){
-                    cells[startIndex] = 0;
+                    cells[startIndex] = 0; // бубата отлита и само се изпразва клетката и
 //                    System.out.println(Arrays.toString(cells));
                 }
 
@@ -88,6 +106,7 @@ public class More6_LadyBugs {
                 }
             }
             command = sc.nextLine();
+            numberOfCommands ++;
         }
 
         System.out.println(Arrays.toString(cells)

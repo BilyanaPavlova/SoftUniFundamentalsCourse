@@ -4,12 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Task10_BUBBLE_SORT">
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/MoreTasks_IMPORTANT_FUNCTIONS" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="LadyBugs - working 20% - before correction of data types">
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/BeerKegs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/Elevator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/Important&amp;Conditions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/IntegerOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/Pokemon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/PrintASCIIPart.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/Snowballs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/SpiceMustFlow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/SumDigits.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/SumOfCharacters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/TriplesOfLetters.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/WaterOverflow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec2_DataTypes/SpecialNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec_HTML/html_example.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUniFundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniFundamentals.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/MoreTasksArrays" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +32,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Kotlin Class" />
         <option value="Class" />
       </list>
     </option>
@@ -50,16 +64,17 @@
       <recent name="$PROJECT_DIR$/src/Lec3_Arrays" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ex2_DataTypes" />
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.More6_LadyBugs">
-    <configuration name="More1_Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.More1_Sort" />
+  <component name="RunManager" selected="Application.SpecialNumbers">
+    <configuration name="BeerKegs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2_DataTypes.BeerKegs" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex3_Arrays.*" />
+          <option name="PATTERN" value="Ex2_DataTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="More6_LadyBugs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.More6_LadyBugs" />
+    <configuration name="Pokemon" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2_DataTypes.Pokemon" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex3_Arrays.*" />
+          <option name="PATTERN" value="Ex2_DataTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task1_Train_ScanningInput_Printing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.Task1_Train_ScanningInput_Printing" />
+    <configuration name="Snowballs" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2_DataTypes.Snowballs" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex3_Arrays.*" />
+          <option name="PATTERN" value="Ex2_DataTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task2_CompareElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.Task2_CompareElements" />
+    <configuration name="SpecialNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec2_DataTypes.SpecialNumbers" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex3_Arrays.*" />
+          <option name="PATTERN" value="Lec2_DataTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -106,12 +121,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Task9_ModifyArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex3_Arrays.Task9_ModifyArray" />
+    <configuration name="SpiceMustFlow" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex2_DataTypes.SpiceMustFlow" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex3_Arrays.*" />
+          <option name="PATTERN" value="Ex2_DataTypes.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -121,11 +136,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.More6_LadyBugs" />
-        <item itemvalue="Application.More1_Sort" />
-        <item itemvalue="Application.Task9_ModifyArray" />
-        <item itemvalue="Application.Task2_CompareElements" />
-        <item itemvalue="Application.Task1_Train_ScanningInput_Printing" />
+        <item itemvalue="Application.SpecialNumbers" />
+        <item itemvalue="Application.Snowballs" />
+        <item itemvalue="Application.Pokemon" />
+        <item itemvalue="Application.SpiceMustFlow" />
+        <item itemvalue="Application.BeerKegs" />
       </list>
     </recent_temporary>
   </component>
@@ -201,7 +216,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696263201512</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="LadyBugs - working 20% - before correction of data types">
+      <created>1696278505849</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1696278505849</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -213,7 +235,8 @@
     <MESSAGE value="Task 10 - initial" />
     <MESSAGE value="Task 10 - adding a boolean" />
     <MESSAGE value="Task10_BUBBLE_SORT" />
-    <option name="LAST_COMMIT_MESSAGE" value="Task10_BUBBLE_SORT" />
+    <MESSAGE value="LadyBugs - working 20% - before correction of data types" />
+    <option name="LAST_COMMIT_MESSAGE" value="LadyBugs - working 20% - before correction of data types" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -245,13 +268,63 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java</url>
-          <line>47</line>
+          <line>53</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java</url>
-          <line>31</line>
+          <line>40</line>
           <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/Elevator.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="23" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/Elevator.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="25" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/SumOfCharacters.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="27" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/TriplesOfLetters.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="29" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/SpiceMustFlow.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="30" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/Pokemon.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="31" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/Snowballs.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="32" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec2_DataTypes/SpecialNumbers.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec2_DataTypes/SpecialNumbers.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="34" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
