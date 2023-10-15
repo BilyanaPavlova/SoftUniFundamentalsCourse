@@ -2,7 +2,7 @@ package Ex4_Methods;
 
 import java.util.Scanner;
 
-public class TopNumbers {
+public class TopNumbers_SumDigitsOfANumber {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
@@ -17,6 +17,7 @@ public class TopNumbers {
 
     public static boolean isDivisibleBy8(int num) {
 
+        //намиране на сума на цифри на число
         int sum = 0;
         while (num > 0){
             sum += num % 10;

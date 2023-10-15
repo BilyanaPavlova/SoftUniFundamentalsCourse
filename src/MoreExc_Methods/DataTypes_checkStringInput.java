@@ -2,7 +2,7 @@ package MoreExc_Methods;
 
 import java.util.Scanner;
 
-public class DataTypes {
+public class DataTypes_checkStringInput {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);

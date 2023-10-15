@@ -4,17 +4,32 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Excercise 2 on Data Types + Important Notes">
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/CharractersInRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/CountVowels.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/FactorialDivision.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/MiddleChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/MinNum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/TopNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/Datatypes1.java" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Ex 4 Methods - first part">
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/AddSubtract.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/PassValidator_ReadingStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/PrintMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/AnonymousThreat_StringLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/BombNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/BombNumbersSoftUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/CardsGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/ChatGPT_CardGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/OrderArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/PokemonDontGo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5_Lists/PrintList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5_Lists/ReadListFromConsoleITEMPLATES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5_Lists/TypesOfLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec_HTML/CenterPoint_SquareRoot.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/ArrayManipulator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/MultiplicationSign.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/TribonaciSequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IntelliJIDEA_ReferenceCard.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/PB-Java-How-to-create-live-template-in-intellij-idea.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/PF-Java-CheatSheet.pdf" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/TopNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_Methods/TopNumbers_SumDigitsOfANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExc_Methods/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoreExc_Methods/DataTypes_checkStringInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExc_Methods/Datatypes1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,6 +40,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Kotlin Class" />
+        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -42,13 +58,14 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals",
+    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources",
     "run.code.analysis.last.selected.profile": "pProject Default",
     "settings.editor.selected.configurable": "editing.templates"
   }
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources" />
       <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
@@ -60,13 +77,13 @@
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palindrome">
-    <configuration name="CharractersInRange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.CharractersInRange" />
+  <component name="RunManager" selected="Application.BombNumbersSoftUni">
+    <configuration name="BombNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.BombNumbers" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex4_Methods.*" />
+          <option name="PATTERN" value="Ex5_Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -74,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FactorialDivision" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.FactorialDivision" />
+    <configuration name="BombNumbersSoftUni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.BombNumbersSoftUni" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex4_Methods.*" />
+          <option name="PATTERN" value="Ex5_Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -87,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MiddleChars" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.MiddleChars" />
+    <configuration name="CardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.CardGame" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex4_Methods.*" />
+          <option name="PATTERN" value="Ex5_Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.Palindrome" />
+    <configuration name="CardsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.CardsGame" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex4_Methods.*" />
+          <option name="PATTERN" value="Ex5_Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +130,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TopNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex4_Methods.TopNumbers" />
+    <configuration name="ChatGPT_CardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.ChatGPT_CardGame" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex4_Methods.*" />
+          <option name="PATTERN" value="Ex5_Lists.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,11 +145,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome" />
-        <item itemvalue="Application.TopNumbers" />
-        <item itemvalue="Application.MiddleChars" />
-        <item itemvalue="Application.FactorialDivision" />
-        <item itemvalue="Application.CharractersInRange" />
+        <item itemvalue="Application.BombNumbersSoftUni" />
+        <item itemvalue="Application.BombNumbers" />
+        <item itemvalue="Application.CardsGame" />
+        <item itemvalue="Application.ChatGPT_CardGame" />
+        <item itemvalue="Application.CardGame" />
       </list>
     </recent_temporary>
   </component>
@@ -222,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696685316667</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="Ex 4 Methods - first part">
+      <created>1696707150448</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1696707150448</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -236,7 +260,8 @@
     <MESSAGE value="Task10_BUBBLE_SORT" />
     <MESSAGE value="LadyBugs - working 20% - before correction of data types" />
     <MESSAGE value="Excercise 2 on Data Types + Important Notes" />
-    <option name="LAST_COMMIT_MESSAGE" value="Excercise 2 on Data Types + Important Notes" />
+    <MESSAGE value="Ex 4 Methods - first part" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex 4 Methods - first part" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -327,7 +352,7 @@
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/DataTypes.java</url>
+          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/DataTypes_checkStringInput.java</url>
           <line>10</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
@@ -337,9 +362,54 @@
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex4_Methods/TopNumbers.java</url>
+          <url>file://$PROJECT_DIR$/src/Ex4_Methods/TopNumbers_SumDigitsOfANumber.java</url>
           <line>10</line>
           <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex4_Methods/PassValidator_ReadingStrings.java</url>
+          <line>10</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/ArrayManipulator.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="42" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/ArrayManipulator.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="43" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/TribonaciSequence.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="44" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/Courses.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="50" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/PokemonDontGo.java</url>
+          <line>25</line>
+          <option name="timeStamp" value="51" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/OrderArrays.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="53" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/CardsGame.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="54" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/BombNumbers.java</url>
+          <line>26</line>
+          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
