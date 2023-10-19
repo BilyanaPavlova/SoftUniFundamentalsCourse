@@ -4,32 +4,16 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Ex 4 Methods - first part">
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/AddSubtract.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/PassValidator_ReadingStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex4_Methods/PrintMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/AnonymousThreat_StringLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/BombNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/BombNumbersSoftUni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/CardsGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/ChatGPT_CardGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/OrderArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/PokemonDontGo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec5_Lists/PrintList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec5_Lists/ReadListFromConsoleITEMPLATES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec5_Lists/TypesOfLists.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec_HTML/CenterPoint_SquareRoot.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/ArrayManipulator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/MultiplicationSign.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MoreExc_Methods/TribonaciSequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/IntelliJIDEA_ReferenceCard.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/PB-Java-How-to-create-live-template-in-intellij-idea.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/PF-Java-CheatSheet.pdf" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Ex 5 lists">
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/ChangeList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/HouseParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/HouseParty_SoftUni.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/ListOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/Train.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/BonusScoringSystem.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/Inventory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/PRINT_LIST" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/TopNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex4_Methods/TopNumbers_SumDigitsOfANumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MoreExc_Methods/DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/MoreExc_Methods/DataTypes_checkStringInput.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MoreExc_Methods/Datatypes1.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -77,9 +61,22 @@
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.BombNumbersSoftUni">
-    <configuration name="BombNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.BombNumbers" />
+  <component name="RunManager" selected="Application.Inventory">
+    <configuration name="BonusScoringSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.BonusScoringSystem" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MidExamPrep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.ChangeList" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -91,8 +88,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BombNumbersSoftUni" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.BombNumbersSoftUni" />
+    <configuration name="HouseParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.HouseParty" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -104,12 +101,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.CardGame" />
+    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.Inventory" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex5_Lists.*" />
+          <option name="PATTERN" value="MidExamPrep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -117,21 +114,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CardsGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.CardsGame" />
-      <module name="SoftUniFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex5_Lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ChatGPT_CardGame" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.ChatGPT_CardGame" />
+    <configuration name="Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.Train" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -145,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BombNumbersSoftUni" />
-        <item itemvalue="Application.BombNumbers" />
-        <item itemvalue="Application.CardsGame" />
-        <item itemvalue="Application.ChatGPT_CardGame" />
-        <item itemvalue="Application.CardGame" />
+        <item itemvalue="Application.Inventory" />
+        <item itemvalue="Application.BonusScoringSystem" />
+        <item itemvalue="Application.Train" />
+        <item itemvalue="Application.ChangeList" />
+        <item itemvalue="Application.HouseParty" />
       </list>
     </recent_temporary>
   </component>
@@ -246,7 +230,14 @@
       <option name="project" value="LOCAL" />
       <updated>1696707150448</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Ex 5 lists">
+      <created>1697399994657</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1697399994657</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,7 +252,8 @@
     <MESSAGE value="LadyBugs - working 20% - before correction of data types" />
     <MESSAGE value="Excercise 2 on Data Types + Important Notes" />
     <MESSAGE value="Ex 4 Methods - first part" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex 4 Methods - first part" />
+    <MESSAGE value="Ex 5 lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex 5 lists" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -410,6 +402,51 @@
           <url>file://$PROJECT_DIR$/src/Ex5_Lists/BombNumbers.java</url>
           <line>26</line>
           <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/ListOperations.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="57" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/ListOperations.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/HouseParty.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/HouseParty_SoftUni.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/ChangeList.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/ChangeList.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex5_Lists/Train.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/BonusScoringSystem.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/Inventory.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
