@@ -1,0 +1,51 @@
+задачите:
+https://softuni.bg/trainings/resources/officedocument/87828/problems-description-more-exercise-programming-fundamentals-with-java-september-2023/4220
+
+важни методи:
+for (int j = 0; j < numStrings; j++) {
+char[] charArray = strings[j].toCharArray(); //обръща букви от стринг в арей
+}
+
+// BUBBLE SORT METHOD
+//    public static void bubbleSort(int[] arr) {
+//        int n = arr.length;
+//        boolean swapped;
+//        do {
+//            swapped = false;
+//            for (int i = 1; i < n; i++) {
+//                if (arr[i - 1] > arr[i]) { // избутва най-голямото накрая и затова трябва да се намали рейнджа при всеки цикъл
+//                    // Swap arr[i-1] and arr[i]
+//                    int temp = arr[i - 1];
+//                    arr[i - 1] = arr[i];
+//                    arr[i] = temp;
+//                    swapped = true;
+//                }
+//            }
+//            n--; // Reduce the size of the unsorted portion
+//        } while (swapped);
+//    }
+
+четене на масив от стрингове и обръщане в масив от от числа:
+
+int [] numbers = Arrays.stream(sc.nextLine().split(" "))
+                    .mapToInt(Integer::parseInt)
+                    .toArray();
+
+
+печатане на масив:
+
+System.out.println(Arrays.toString(cabins)
+                            .replace("[", "")
+                            .replace("]", "")
+                            .replace(",", ""));
+
+                            ------
+continue; // skip the rest of the code in the loop
+         // and starts the loop again with the next iteration
+         // used to omit some numbers for example if they meet some condition
+
+break; // terminates the loop and continues with the code below it.
+        // used when a certain condition is met and we have no more need to iterate through the loop
+
+return; // terminates the whole main method and the program itself
+

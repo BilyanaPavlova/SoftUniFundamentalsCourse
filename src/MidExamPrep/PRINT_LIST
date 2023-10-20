@@ -1,7 +1,0 @@
-Sistem.out.printline(String.join(", ", list)) -> samo za lists ot stringowe!!
-
-System.out.printline(list.toString().replace("[", "").replace("]", "")); -> raboti za wsqkakwi spisaci
-
-list.remove() - не е необходима проверка дали елемента съществува,
-защото remove() методът по принцип винаги първо винаги проверява
-дали нещото съществува и после го премахва

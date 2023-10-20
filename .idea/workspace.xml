@@ -4,14 +4,23 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Ex 6 lists for mid exam preparation">
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ArrayModifier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ArrayMofifier2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/LIST_Functions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/NumberList_withDuplicates.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/NumberList_withReadyMethods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/Numbers_Lists.java" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="2 programing fundamentals mid exam">
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/HeartDelivery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/REceprion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/Reception.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_Arraya" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_BasicSyntax" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_Conditions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_IMPORTANT_FUNCTIONS" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_LIST_Functions" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Important" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/BasicSyntaxNOTES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/TasksLink" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/Important&amp;Conditions" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/NOTES_Conditions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/MoreTasks_IMPORTANT_FUNCTIONS" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Arrays/NOTES_IMPORTANT_FUNCTIONS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec3_Arrays/NOTES_Arraya" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/Tasks" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/LIST_Functions" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidExamPrep/NOTES_LIST_Functions" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/MidExamPrep/PRINT_LIST" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +70,7 @@
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ArrayMofifier2">
+  <component name="RunManager" selected="Application.HeartDelivery">
     <configuration name="ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="MidExamPrep.ArrayModifier" />
       <module name="SoftUniFundamentals" />
@@ -88,8 +97,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberList_withDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.NumberList_withDuplicates" />
+    <configuration name="HeartDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.HeartDelivery" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -101,8 +110,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="NumberList_withReadyMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.NumberList_withReadyMethods" />
+    <configuration name="REceprion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.REceprion" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -114,8 +123,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Numbers_Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.Numbers_Lists" />
+    <configuration name="Reception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.Reception" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -129,11 +138,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.HeartDelivery" />
+        <item itemvalue="Application.Reception" />
+        <item itemvalue="Application.REceprion" />
         <item itemvalue="Application.ArrayMofifier2" />
         <item itemvalue="Application.ArrayModifier" />
-        <item itemvalue="Application.NumberList_withReadyMethods" />
-        <item itemvalue="Application.NumberList_withDuplicates" />
-        <item itemvalue="Application.Numbers_Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -244,7 +253,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697728512967</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="2 programing fundamentals mid exam">
+      <created>1697806655503</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1697806655503</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -261,7 +277,8 @@
     <MESSAGE value="Ex 4 Methods - first part" />
     <MESSAGE value="Ex 5 lists" />
     <MESSAGE value="Ex 6 lists for mid exam preparation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex 6 lists for mid exam preparation" />
+    <MESSAGE value="2 programing fundamentals mid exam" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 programing fundamentals mid exam" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -470,6 +487,16 @@
           <url>file://$PROJECT_DIR$/src/MidExamPrep/ArrayMofifier2.java</url>
           <line>22</line>
           <option name="timeStamp" value="78" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/Reception.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="80" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/HeartDelivery.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
