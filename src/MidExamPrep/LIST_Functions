@@ -1,0 +1,17 @@
+Sistem.out.printline(String.join(", ", list)) -> работи само за лист от срингове!!
+
+System.out.printline(list.toString().replace("[", "").replace("]", "")); -> raboti za wsqkakwi spisaci
+
+ System.out.println(Arrays.toString(topFive.toArray())
+                .replaceAll("[\\[\\],]", "")); - за всякакви списъци
+
+list.remove() - не е необходима проверка дали елемента съществува,
+защото remove() методът по принцип винаги първо винаги проверява
+дали нещото съществува и после го премахва
+
+//The method doesn't return anything because it directly modifies the original list provided as an argument.
+      Collections.sort(list);
+      Collections.reverse(list);
+      
+      
+      

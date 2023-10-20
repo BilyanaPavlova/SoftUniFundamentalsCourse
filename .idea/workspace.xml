@@ -4,16 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Ex 5 lists">
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/ChangeList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/HouseParty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/HouseParty_SoftUni.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/ListOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex5_Lists/Train.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/BonusScoringSystem.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/Inventory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/PRINT_LIST" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Ex 6 lists for mid exam preparation">
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ArrayModifier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ArrayMofifier2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/LIST_Functions" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/NumberList_withDuplicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/NumberList_withReadyMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/Numbers_Lists.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/PRINT_LIST" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,15 +37,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/resources" />
@@ -57,13 +56,14 @@
       <recent name="$PROJECT_DIR$/src/Lec3_Arrays" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="MidExamPrep" />
       <recent name="Ex2_DataTypes" />
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Inventory">
-    <configuration name="BonusScoringSystem" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.BonusScoringSystem" />
+  <component name="RunManager" selected="Application.ArrayMofifier2">
+    <configuration name="ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.ArrayModifier" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -75,34 +75,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ChangeList" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.ChangeList" />
-      <module name="SoftUniFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex5_Lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="HouseParty" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.HouseParty" />
-      <module name="SoftUniFundamentals" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Ex5_Lists.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Inventory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.Inventory" />
+    <configuration name="ArrayMofifier2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.ArrayMofifier2" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -114,12 +88,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Train" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex5_Lists.Train" />
+    <configuration name="NumberList_withDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.NumberList_withDuplicates" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex5_Lists.*" />
+          <option name="PATTERN" value="MidExamPrep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="NumberList_withReadyMethods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.NumberList_withReadyMethods" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MidExamPrep.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Numbers_Lists" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.Numbers_Lists" />
+      <module name="SoftUniFundamentals" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="MidExamPrep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -129,11 +129,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Inventory" />
-        <item itemvalue="Application.BonusScoringSystem" />
-        <item itemvalue="Application.Train" />
-        <item itemvalue="Application.ChangeList" />
-        <item itemvalue="Application.HouseParty" />
+        <item itemvalue="Application.ArrayMofifier2" />
+        <item itemvalue="Application.ArrayModifier" />
+        <item itemvalue="Application.NumberList_withReadyMethods" />
+        <item itemvalue="Application.NumberList_withDuplicates" />
+        <item itemvalue="Application.Numbers_Lists" />
       </list>
     </recent_temporary>
   </component>
@@ -237,7 +237,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697399994657</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Ex 6 lists for mid exam preparation">
+      <created>1697728512967</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1697728512967</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -253,7 +260,8 @@
     <MESSAGE value="Excercise 2 on Data Types + Important Notes" />
     <MESSAGE value="Ex 4 Methods - first part" />
     <MESSAGE value="Ex 5 lists" />
-    <option name="LAST_COMMIT_MESSAGE" value="Ex 5 lists" />
+    <MESSAGE value="Ex 6 lists for mid exam preparation" />
+    <option name="LAST_COMMIT_MESSAGE" value="Ex 6 lists for mid exam preparation" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -448,6 +456,21 @@
           <line>24</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/Numbers_Lists.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="71" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/ArrayModifier.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/ArrayMofifier2.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="78" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
           <line>5</line>
@@ -456,6 +479,24 @@
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="39" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/Numbers_Lists.java</url>
+          <line>36</line>
+          <properties class="MidExamPrep.Numbers_Lists" method="findTopFive">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="70" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/Numbers_Lists.java</url>
+          <line>69</line>
+          <properties class="MidExamPrep.Numbers_Lists" method="returnBiggestNumber">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="72" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
