@@ -4,24 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="2 programing fundamentals mid exam">
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/HeartDelivery.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/REceprion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/Reception.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_Arraya" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_BasicSyntax" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_Conditions" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_IMPORTANT_FUNCTIONS" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_LIST_Functions" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="2 Mid Exam: Reception, HeartsDelivery (lists)">
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/BiscuitFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/BlackFlag.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/CounterStrike.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/Groceries.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/GuineaPig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ListFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ManOWar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/MovingTarget.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/SchoolLibrary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ShootForTheWIn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/SpaceTravel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/TreasureHunt.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/CONTROL_FLOW" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Important" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/BasicSyntaxNOTES" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/TasksLink" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/Important&amp;Conditions" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex2_DataTypes/NOTES_Conditions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/MoreTasks_IMPORTANT_FUNCTIONS" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Arrays/NOTES_IMPORTANT_FUNCTIONS" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/Notes" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec3_Arrays/NOTES_Arraya" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/Tasks" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/LIST_Functions" beforeDir="false" afterPath="$PROJECT_DIR$/src/MidExamPrep/NOTES_LIST_Functions" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/PRINT_LIST" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_BasicSyntax" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/NOTES_BasicSyntax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_Conditions" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/NOTES_DataTypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_IMPORTANT_FUNCTIONS" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/BUBBLESORTARRAY_CONTROLFLOW_PRINTARRAY" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_LIST_Functions" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/NOTES_LIST_Functions" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,9 +71,9 @@
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.HeartDelivery">
-    <configuration name="ArrayModifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.ArrayModifier" />
+  <component name="RunManager" selected="Application.SpaceTravel">
+    <configuration name="BiscuitFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.BiscuitFactory" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -84,8 +85,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ArrayMofifier2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.ArrayMofifier2" />
+    <configuration name="CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.CounterStrike" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -97,8 +98,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="HeartDelivery" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.HeartDelivery" />
+    <configuration name="ListFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.ListFunctions" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -110,8 +111,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="REceprion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.REceprion" />
+    <configuration name="SchoolLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.SchoolLibrary" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -123,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Reception" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.Reception" />
+    <configuration name="SpaceTravel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MidExamPrep.SpaceTravel" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -138,11 +139,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.HeartDelivery" />
-        <item itemvalue="Application.Reception" />
-        <item itemvalue="Application.REceprion" />
-        <item itemvalue="Application.ArrayMofifier2" />
-        <item itemvalue="Application.ArrayModifier" />
+        <item itemvalue="Application.SpaceTravel" />
+        <item itemvalue="Application.BiscuitFactory" />
+        <item itemvalue="Application.SchoolLibrary" />
+        <item itemvalue="Application.ListFunctions" />
+        <item itemvalue="Application.CounterStrike" />
       </list>
     </recent_temporary>
   </component>
@@ -260,7 +261,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697806655503</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="2 Mid Exam: Reception, HeartsDelivery (lists)">
+      <created>1697826035181</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1697826035181</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -278,7 +286,8 @@
     <MESSAGE value="Ex 5 lists" />
     <MESSAGE value="Ex 6 lists for mid exam preparation" />
     <MESSAGE value="2 programing fundamentals mid exam" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 programing fundamentals mid exam" />
+    <MESSAGE value="2 Mid Exam: Reception, HeartsDelivery (lists)" />
+    <option name="LAST_COMMIT_MESSAGE" value="2 Mid Exam: Reception, HeartsDelivery (lists)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -497,6 +506,46 @@
           <url>file://$PROJECT_DIR$/src/MidExamPrep/HeartDelivery.java</url>
           <line>18</line>
           <option name="timeStamp" value="81" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/Groceries.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="82" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/GuineaPig.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="83" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/ManOWar.java</url>
+          <line>70</line>
+          <option name="timeStamp" value="84" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/TreasureHunt.java</url>
+          <line>71</line>
+          <option name="timeStamp" value="87" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/ShootForTheWIn.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="90" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/MovingTarget.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="91" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/CounterStrike.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="92" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/MidExamPrep/SchoolLibrary.java</url>
+          <line>38</line>
+          <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>

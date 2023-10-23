@@ -13,7 +13,7 @@ byte, short, int, long -> %d
 --------------------
 Floating point types
 Real numbers are by default interpreted as double
-One should explicitely convert them to float
+One should explicitly convert them to float
 difference in precision:
 float floatPI = 3.141592653589793238f; // print 3.1415927
 double doublePI = 3.141592653589793238 //print 3.141592653589793238
@@ -28,7 +28,7 @@ double                     0.0D                                                 
 10/0.0          //Infinity
 -10/0.0         //-Inifnity
 0/0.0           NaN (not a number)
-8 % 2.5         //0.5 (3*2.5 + 0.5 = 8) the remainder
+8 % 2.5         //0.5 (3*2.5 + 0.5 = 8) returns the remainder
 10/0            //ArithmeticEcxeption
 
 print format: %.0f (zero floating points) , %.2f (two digits after the floating point)
@@ -48,8 +48,8 @@ float m = 1.74f;
 double h = m;
 
 Explicit conversion - larger to smaller size - precision can be lost:
-double size = 4.14;
-int intSize = (int) size;   // 4
+double size = 4.14;                 // double is 64 bit
+int intSize = (int) size;   // 4  // int is 32 bit
 
 Boolean variables
 
@@ -74,5 +74,5 @@ String
 concatenation: "a" + 1  // a1 string
 
 String.join(..., ...);
-String text = String.format("%d sth", someNum); - when we are going to use that text for different things
+String text = String.format("%d sth", someNum); - when we are going to use that text further for different things, we can assign it to a string variable
 //print (text)

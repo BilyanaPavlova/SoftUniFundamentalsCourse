@@ -1,8 +1,9 @@
-Sistem.out.printline(String.join(", ", list)) -> работи само за лист от срингове!!
+System.out.println(String.join(", ", list)) -> работи само за лист от срингове!!
 
-System.out.printline(list.toString().replace("[", "").replace("]", "")); -> raboti za wsqkakwi spisaci
+System.out.println(myList.toString().replace("[", "").replace("]", "")); -> raboti za wsqkakwi spisaci
 
- System.out.println(Arrays.toString(topFive.toArray())
+
+ System.out.println(Arrays.toString(myList.toArray())
                 .replaceAll("[\\[\\],]", "")); - за всякакви списъци
 
 list.remove() - не е необходима проверка дали елемента съществува,

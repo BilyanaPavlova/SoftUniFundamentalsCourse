@@ -1,0 +1,8 @@
+continue; // skip the rest of the code IN THE LOOP
+         // and STARTS the loop again with the next iteration
+         // used to omit some numbers in the loop for example if they meet some condition
+
+break; // terminates the loop and continues with the code BELOW it.
+        // used when a certain condition is met and we have no more need to iterate through the loop
+
+return; // terminates the whole main method and the program itself
