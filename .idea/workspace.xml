@@ -4,25 +4,53 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="2 Mid Exam: Reception, HeartsDelivery (lists)">
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/BiscuitFactory.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/BlackFlag.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/CounterStrike.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/Groceries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/GuineaPig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ListFunctions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ManOWar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/MovingTarget.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/SchoolLibrary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/ShootForTheWIn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/SpaceTravel.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/MidExamPrep/TreasureHunt.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/CONTROL_FLOW" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Real Mid Exam: SchoolLibrary, SpaceTravel, BlackFlag">
+      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/TopIntegersInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/Random_Generator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/articles/Article.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/articles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/orderByAge/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/orderByAge/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/personPoll/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/personPoll/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/students4/Main_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/students4/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/vehicles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/AMinerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/BigFactorial.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/RandomiseWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/SumBigNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/songs/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/songs/Song.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_3/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfOptional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfPredicate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfStreamToFilterList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfStremToFilterListOfObjects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/CountRealNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESArraysWithStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESCollectionsWithStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESHashMapFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESImmutableList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/Ranking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/WordsSynonims.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/groomingSalon/GroomingSalon.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/groomingSalon/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/groomingSalon/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_Classes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists/01.AssociativeArrays.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_BasicSyntax" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/NOTES_BasicSyntax" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_Conditions" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/NOTES_DataTypes" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_IMPORTANT_FUNCTIONS" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/BUBBLESORTARRAY_CONTROLFLOW_PRINTARRAY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_LIST_Functions" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/NOTES_LIST_Functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUniFundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniFundamentals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/ZIgZag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Arrays/ZIgZag.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,37 +75,46 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources/Tasks_DataTypes_Arrays_Lists",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists" />
+      <recent name="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_3" />
+      <recent name="$PROJECT_DIR$/src/Lec6_ClassesObjects" />
+      <recent name="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2" />
       <recent name="$PROJECT_DIR$/src/resources" />
-      <recent name="$PROJECT_DIR$" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources/presentations" />
+      <recent name="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists" />
       <recent name="$PROJECT_DIR$/src/resources" />
       <recent name="$PROJECT_DIR$/src/Lec3_Arrays" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Ex7_AssociativeArraya" />
       <recent name="MidExamPrep" />
       <recent name="Ex2_DataTypes" />
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.SpaceTravel">
-    <configuration name="BiscuitFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.BiscuitFactory" />
+  <component name="RunManager" selected="Application.CountCharsInAString1">
+    <configuration name="AMinerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.AMinerTask" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExamPrep.*" />
+          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -85,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CounterStrike" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.CounterStrike" />
+    <configuration name="CountCharsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.CountCharsInAString" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExamPrep.*" />
+          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -98,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ListFunctions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.ListFunctions" />
+    <configuration name="CountCharsInAString1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.CountCharsInAString1" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExamPrep.*" />
+          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -111,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SchoolLibrary" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.SchoolLibrary" />
+    <configuration name="RULESArraysWithStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec7_AssociativeArrays.RULESArraysWithStreams" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExamPrep.*" />
+          <option name="PATTERN" value="Lec7_AssociativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpaceTravel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="MidExamPrep.SpaceTravel" />
+    <configuration name="RULESCollectionsWithStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec7_AssociativeArrays.RULESCollectionsWithStreams" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="MidExamPrep.*" />
+          <option name="PATTERN" value="Lec7_AssociativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,11 +176,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SpaceTravel" />
-        <item itemvalue="Application.BiscuitFactory" />
-        <item itemvalue="Application.SchoolLibrary" />
-        <item itemvalue="Application.ListFunctions" />
-        <item itemvalue="Application.CounterStrike" />
+        <item itemvalue="Application.CountCharsInAString1" />
+        <item itemvalue="Application.AMinerTask" />
+        <item itemvalue="Application.CountCharsInAString" />
+        <item itemvalue="Application.RULESCollectionsWithStreams" />
+        <item itemvalue="Application.RULESArraysWithStreams" />
       </list>
     </recent_temporary>
   </component>
@@ -268,7 +305,14 @@
       <option name="project" value="LOCAL" />
       <updated>1697826035181</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Real Mid Exam: SchoolLibrary, SpaceTravel, BlackFlag">
+      <created>1698078266504</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1698078266504</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -287,7 +331,8 @@
     <MESSAGE value="Ex 6 lists for mid exam preparation" />
     <MESSAGE value="2 programing fundamentals mid exam" />
     <MESSAGE value="2 Mid Exam: Reception, HeartsDelivery (lists)" />
-    <option name="LAST_COMMIT_MESSAGE" value="2 Mid Exam: Reception, HeartsDelivery (lists)" />
+    <MESSAGE value="Real Mid Exam: SchoolLibrary, SpaceTravel, BlackFlag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Real Mid Exam: SchoolLibrary, SpaceTravel, BlackFlag" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -547,6 +592,66 @@
           <line>38</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/TopIntegersInArray.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="94" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/RandomiseWords.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="95" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/BigFactorial.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="96" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/songs/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="99" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="104" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfOptional.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="106" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex6_Classes/vehicles/Main.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex6_Classes/vehicles/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="108" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/groomingSalon/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="109" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/AMinerTask.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/AMinerTask.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString1.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="119" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
           <line>5</line>
@@ -574,6 +679,15 @@
           </properties>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString.java</url>
+          <line>7</line>
+          <properties class="Ex7_AssociativeArraya.CountCharsInAString" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="114" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -582,6 +696,9 @@
     <select />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/SoftUniFundamentals$TopIntegersInArray.ic" NAME="TopIntegersInArray Coverage Results" MODIFIED="1698136757060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Ex3_Arrays.*</FILTER>
+    </SUITE>
     <SUITE FILE_PATH="coverage/SoftUniFundamentals$More1_Sort.ic" NAME="More1_Sort Coverage Results" MODIFIED="1696167029501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Ex3_Arrays.*</FILTER>
     </SUITE>
