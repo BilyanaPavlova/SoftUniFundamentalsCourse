@@ -75,6 +75,7 @@ public class RULESCollectionsWithStreams {
                 .mapToInt(e -> Integer.parseInt(e)) //inline function(only needed for this) i.e. lambda expression
                 .toArray();
 
+// the same as above but with method reference:
         int[] numbers1 = Arrays.stream(sc.nextLine().split(" "))
                 .mapToInt(Integer::parseInt) //method reference - the shorthand for lambda expression, when the lambda simply calls a method
                 .toArray();

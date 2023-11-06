@@ -4,53 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Real Mid Exam: SchoolLibrary, SpaceTravel, BlackFlag">
-      <change afterPath="$PROJECT_DIR$/src/Ex3_Arrays/TopIntegersInArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/Random_Generator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/articles/Article.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/articles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/orderByAge/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/orderByAge/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/personPoll/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/personPoll/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/students4/Main_Comparator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/students4/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/vehicles/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex6_Classes/vehicles/Vehicle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/AMinerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/BigFactorial.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/RandomiseWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/SumBigNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/songs/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/songs/Song.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_3/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_3/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfOptional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfPredicate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfStreamToFilterList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfStremToFilterListOfObjects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/CountRealNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESArraysWithStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESCollectionsWithStreams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESHashMapFunc.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESImmutableList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/Ranking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/WordsSynonims.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/groomingSalon/GroomingSalon.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/groomingSalon/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/groomingSalon/Pet.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/NOTES_Classes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists/01.AssociativeArrays.docx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Lec7 Associative arrays RULES">
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/Courses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/Orders.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniParking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/Students.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESPrintingHashMap.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/SoftUniFundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/SoftUniFundamentals.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/ZIgZag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex3_Arrays/ZIgZag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESCollectionsWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESCollectionsWithStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESHashMapFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESHashMapFunc.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,18 +39,18 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources/Tasks_DataTypes_Arrays_Lists",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "editing.templates"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources/Tasks_DataTypes_Arrays_Lists&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists" />
@@ -108,9 +72,9 @@
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.CountCharsInAString1">
-    <configuration name="AMinerTask" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.AMinerTask" />
+  <component name="RunManager" selected="Application.LegendaryFarming">
+    <configuration name="Courses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.Courses" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -122,8 +86,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountCharsInAString" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.CountCharsInAString" />
+    <configuration name="LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.LegendaryFarming" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -135,8 +99,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="CountCharsInAString1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.CountCharsInAString1" />
+    <configuration name="Orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.Orders" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
@@ -148,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RULESArraysWithStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec7_AssociativeArrays.RULESArraysWithStreams" />
+    <configuration name="SoftUniParking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.SoftUniParking" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec7_AssociativeArrays.*" />
+          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +125,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RULESCollectionsWithStreams" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Lec7_AssociativeArrays.RULESCollectionsWithStreams" />
+    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.Students" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Lec7_AssociativeArrays.*" />
+          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -176,11 +140,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.CountCharsInAString1" />
-        <item itemvalue="Application.AMinerTask" />
-        <item itemvalue="Application.CountCharsInAString" />
-        <item itemvalue="Application.RULESCollectionsWithStreams" />
-        <item itemvalue="Application.RULESArraysWithStreams" />
+        <item itemvalue="Application.LegendaryFarming" />
+        <item itemvalue="Application.Courses" />
+        <item itemvalue="Application.Students" />
+        <item itemvalue="Application.SoftUniParking" />
+        <item itemvalue="Application.Orders" />
       </list>
     </recent_temporary>
   </component>
@@ -312,7 +276,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698078266504</updated>
     </task>
-    <option name="localTasksCounter" value="18" />
+    <task id="LOCAL-00018" summary="Lec7 Associative arrays RULES">
+      <created>1698957883989</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1698957883989</updated>
+    </task>
+    <option name="localTasksCounter" value="19" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -332,7 +303,8 @@
     <MESSAGE value="2 programing fundamentals mid exam" />
     <MESSAGE value="2 Mid Exam: Reception, HeartsDelivery (lists)" />
     <MESSAGE value="Real Mid Exam: SchoolLibrary, SpaceTravel, BlackFlag" />
-    <option name="LAST_COMMIT_MESSAGE" value="Real Mid Exam: SchoolLibrary, SpaceTravel, BlackFlag" />
+    <MESSAGE value="Lec7 Associative arrays RULES" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lec7 Associative arrays RULES" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -652,6 +624,31 @@
           <line>15</line>
           <option name="timeStamp" value="119" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/Orders.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="120" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniParking.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="121" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/Students.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="123" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/Courses.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
           <line>5</line>
@@ -680,13 +677,13 @@
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString.java</url>
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniParking.java</url>
           <line>7</line>
-          <properties class="Ex7_AssociativeArraya.CountCharsInAString" method="main">
+          <properties class="Ex7_AssociativeArraya.SoftUniParking" method="main">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
-          <option name="timeStamp" value="114" />
+          <option name="timeStamp" value="122" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

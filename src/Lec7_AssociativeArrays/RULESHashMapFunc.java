@@ -58,5 +58,10 @@ public class RULESHashMapFunc {
 //        }
 
 
+        //iterate only through the values
+        for (int value : hm.values()) {
+            System.out.println("Value: " + value);
+        }
+
     }
 }
