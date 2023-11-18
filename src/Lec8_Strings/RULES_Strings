@@ -1,0 +1,42 @@
+Strings are immutable
+can be muted when transferred to array and tehn vice cersa
+ako e NULL , ne mojem da polzwame metodi warhu nego
+затова винаги трябва да се правят проверки дали е НУЛЛ, за да не дава грешки
+
+цонцатенациа
+стр 1 + стр 2 + стр3
+
+str1.concat(str2).concat(str3)
+
+String.join(delimiter, array/list)
+
+----
+да не се ползва конкатенация в лупове, защото са м,много бавни
+трябва да се ползва  СтрингБуилдер  и неговите функции
+----
+при функции за търсене на нещо в стринг, масив, лист,
+ако го няма нещото, функциите е прието да връщат -1
+-----
+
+String str = "Hello, Java";
+char ch = str.charAt(2); // l
+-----
+
+Initializing a String
+String str = "Hello, Java";
+
+▪ Reading a string from the console:
+String name = sc.nextLine();
+System.out.println("Hi, " + name);
+
+▪ Converting a string from and to a char array:
+String str = new String(new char[] {'s', 't', 'r'});
+char[] charArr = str.toCharArray();
+// ['s', 't', 'r']
+
+concatenate
+
+String greet = "Hello, ";
+String name = "John";
+String result = greet.concat(name);
+System.out.println(result); // "Hello, John"

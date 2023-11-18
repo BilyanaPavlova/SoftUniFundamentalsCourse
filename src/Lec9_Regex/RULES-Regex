@@ -1,0 +1,63 @@
+312.25 or 300
+regex:
+\[0-9]+\.?[0-9]+? - поредица от цифри и точка, която я има един път или я няма (? - има 1 път или няма), и пак поредица от цифри,
+                    която я има или я няма
+\.+ - точката се среща 1 или много пъти
+\.* - точката се среща 0 или много пъти (или няма ,или много пъти)
+
+[A-Za-z0-9]{4,} - съвкупност от букви и цифри, който са най-малко 4 , може да са и повече
+split[\\s*,\\s*] - сплит по спейс 0 или повече, запетая и спей 0 или повече
+или
+text.replaceAll(" ", "").split(",") - премахваме спейсовете
+
+
+\b -  в началото и края на шаблон - за да го ограничи , да му сложи граници, за да не взима други неща отпред и отзад
+^....$ - определя началото и края на шаблон
+
+Both ^(some regex)$ and \b(some regex)\b involve anchors and word boundaries in regular expressions,
+but they serve different purposes.
+
+^(some regex)$:
+
+^ asserts the start of a line.
+$ asserts the end of a line.
+This combination ensures that the entire input matches the specified regex pattern.
+It effectively anchors the pattern to both the beginning and end of the line.
+For example, if you have the pattern ^\d{3}$, it would match only a string consisting of exactly three digits
+with nothing before or after them.
+
+\b(some regex)\b:
+
+\b asserts a word boundary, ensuring that the pattern is not part of a larger word.
+This is useful when you want to match whole words. For instance, if you have the pattern \bword\b,
+it would match the standalone word "word" and not a word that contains "word" as a substring,
+such as "password" or "wording".
+
+In summary, ^(some regex)$ ensures that the entire line matches the specified regex pattern,
+while \b(some regex)\b ensures that the pattern appears as a whole word within the text.
+-----
+\w
+In regular expressions, the shorthand character class \w represents any word character.
+Word characters include alphanumeric characters (letters and digits) as well as the underscore _. (single alphanumeric symbols)
+
+\w{n} a number ow word characters (words)
+-------
+?: non-capturing group serves to group and apply quantifiers but is not reflected in the matcher
+No, a non-capturing group (?: ... ) will not appear in the matcher's results.
+When you use a non-capturing group in a regular expression,
+it still serves its purpose in grouping and applying quantifiers,
+but it does not create a separate capture group in the match results.
+---
+In a regular expression, backreferences are typically used to refer to capturing groups.
+Non-capturing groups (denoted by (?: ... )) do not create a capturing group,
+so they cannot be directly referenced using a backreference.
+However, you can still achieve the desired result by placing the non-capturing group inside a capturing group.
+
+(\w+)(?:noncapturing)(\w+)
+
+In this example, the non-capturing group (?:noncapturing) is placed inside a capturing group (\w+).
+This way, you can reference the entire match as well as the contents of the capturing groups.
+
+For instance, if you apply this regex to the input string "prefixnoncapturingsuffix",
+the capturing groups will capture "prefix" and "suffix", and the entire match will be "prefixnoncapturingsuffix".
+

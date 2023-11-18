@@ -46,7 +46,7 @@ public class LegendaryFarming {
                 }
 
                 if (trash.containsKey(key)) {
-                    trash.put(key, premiumItems.get(key) + Integer.parseInt(list.get(0)));
+                    trash.put(key, trash.get(key) + Integer.parseInt(list.get(0)));
                 } else {
                     trash.put(key, Integer.parseInt(list.get(0)));
                 }

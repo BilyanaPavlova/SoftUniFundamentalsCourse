@@ -4,17 +4,39 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Lec7 Associative arrays RULES">
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/Courses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/Orders.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniParking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/Students.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESPrintingHashMap.java" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Lec7 Associative arrays RULES &#10;Legendary Farming">
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CompanyNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/ForceBook.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniExamResults.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/BigIntegerTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/CeasarCypher.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/CharacterMultiplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/ExtractFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/LettersChangeNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/MultiplyBigNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/ReplaceRepeatingChars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/StringExplosions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/ValidUserName.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex9_Regex/ExtractEmails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex9_Regex/SoftUniBarIncome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex9_Regex/StarEnigma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec3_Arrays/ReadArrayFromConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/BannedWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/DigitsLettersOthers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/Lab_RepeatStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/Lab_ReverseSTrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/RULES_Strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/RULES_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/RemoveWord.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/RepeatString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/ReplaceWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/Substring.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec9_Regex/RULES-Regex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/CheetSheet_FinalExam" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESCollectionsWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESCollectionsWithStreams.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESHashMapFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESHashMapFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/PF-Java-CheatSheet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/CheatSheet_MidExam.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists/01.AssociativeArrays.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/Tasks/AssociativeArrays/01.AssociativeArrays.docx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,10 +82,11 @@
       <recent name="$PROJECT_DIR$/src/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/Lec9_Regex" />
+      <recent name="$PROJECT_DIR$/src/resources/Tasks/TesxtProcessing" />
+      <recent name="$PROJECT_DIR$/src/resources/Tasks/TesxtProcessing/Regex" />
       <recent name="$PROJECT_DIR$/src/resources/presentations" />
-      <recent name="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists" />
-      <recent name="$PROJECT_DIR$/src/resources" />
-      <recent name="$PROJECT_DIR$/src/Lec3_Arrays" />
+      <recent name="$PROJECT_DIR$/src/resources/Tasks/AssociativeArrays" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Ex7_AssociativeArraya" />
@@ -72,13 +95,13 @@
       <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LegendaryFarming">
-    <configuration name="Courses" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.Courses" />
+  <component name="RunManager" selected="Application.ExtractEmails">
+    <configuration name="ExtractEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9_Regex.ExtractEmails" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
+          <option name="PATTERN" value="Ex9_Regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +109,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LegendaryFarming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.LegendaryFarming" />
+    <configuration name="LettersChangeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex8_TextProcessing.LettersChangeNumbers" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
+          <option name="PATTERN" value="Ex8_TextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +122,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Orders" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.Orders" />
+    <configuration name="SoftUniBarIncome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9_Regex.SoftUniBarIncome" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
+          <option name="PATTERN" value="Ex9_Regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +135,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftUniParking" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.SoftUniParking" />
+    <configuration name="StarEnigma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex9_Regex.StarEnigma" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
+          <option name="PATTERN" value="Ex9_Regex.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +148,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Students" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex7_AssociativeArraya.Students" />
+    <configuration name="StringExplosions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex8_TextProcessing.StringExplosions" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex7_AssociativeArraya.*" />
+          <option name="PATTERN" value="Ex8_TextProcessing.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -140,11 +163,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LegendaryFarming" />
-        <item itemvalue="Application.Courses" />
-        <item itemvalue="Application.Students" />
-        <item itemvalue="Application.SoftUniParking" />
-        <item itemvalue="Application.Orders" />
+        <item itemvalue="Application.ExtractEmails" />
+        <item itemvalue="Application.StarEnigma" />
+        <item itemvalue="Application.SoftUniBarIncome" />
+        <item itemvalue="Application.LettersChangeNumbers" />
+        <item itemvalue="Application.StringExplosions" />
       </list>
     </recent_temporary>
   </component>
@@ -283,7 +306,14 @@
       <option name="project" value="LOCAL" />
       <updated>1698957883989</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Lec7 Associative arrays RULES &#10;Legendary Farming">
+      <created>1699272629016</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1699272629016</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -304,7 +334,8 @@
     <MESSAGE value="2 Mid Exam: Reception, HeartsDelivery (lists)" />
     <MESSAGE value="Real Mid Exam: SchoolLibrary, SpaceTravel, BlackFlag" />
     <MESSAGE value="Lec7 Associative arrays RULES" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lec7 Associative arrays RULES" />
+    <MESSAGE value="Lec7 Associative arrays RULES &#10;Legendary Farming" />
+    <option name="LAST_COMMIT_MESSAGE" value="Lec7 Associative arrays RULES &#10;Legendary Farming" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -648,6 +679,66 @@
           <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java</url>
           <line>24</line>
           <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/CompanyNames.java</url>
+          <line>34</line>
+          <option name="timeStamp" value="132" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/ForceBook.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="136" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/ForceBook.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="137" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniExamResults.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="138" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec8_Strings/ReplaceWords.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="140" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Lec8_Strings/Lab_ReverseSTrings.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="141" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex8_TextProcessing/ValidUserName.java</url>
+          <line>8</line>
+          <option name="timeStamp" value="142" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex8_TextProcessing/CharacterMultiplier.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="143" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex8_TextProcessing/MultiplyBigNumber.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="144" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex8_TextProcessing/LettersChangeNumbers.java</url>
+          <line>37</line>
+          <option name="timeStamp" value="145" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex9_Regex/SoftUniBarIncome.java</url>
+          <line>29</line>
+          <option name="timeStamp" value="148" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex9_Regex/SoftUniBarIncome.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
