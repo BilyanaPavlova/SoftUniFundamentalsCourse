@@ -4,39 +4,91 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Lec7 Associative arrays RULES &#10;Legendary Farming">
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CompanyNames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/ForceBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniExamResults.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/BigIntegerTask.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/CeasarCypher.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/CharacterMultiplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/ExtractFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/LettersChangeNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/MultiplyBigNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/ReplaceRepeatingChars.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/StringExplosions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex8_TextProcessing/ValidUserName.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex9_Regex/ExtractEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex9_Regex/SoftUniBarIncome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex9_Regex/StarEnigma.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec3_Arrays/ReadArrayFromConsole.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/BannedWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/DigitsLettersOthers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/Lab_RepeatStrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/Lab_ReverseSTrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/RULES_Strings" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/RULES_Strings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/RemoveWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/RepeatString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/ReplaceWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec8_Strings/Substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Lec9_Regex/RULES-Regex" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/resources/CheetSheet_FinalExam" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="&#10;Regex - CheetSheet">
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/MoreEx_Ranking.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/MoreEx_Ranking1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex9_Regex/MoreEx_RageQuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex9_Regex/MoreEx_WinningTicket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/PlantDiscoveryNew.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_01_TheImitationGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_01_TheImitationGame1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_02_WorldTour.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_03_SecretChat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_04_PasswordReset.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_05_ActivationKeys.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_01_AdAstra.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_02_DestinationMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_03_MirrorWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_04_FancyBarcodes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_05_CoolEmoji.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_01_ThePianist.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_02_PlantDiscovery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_02_PlantDiscovery1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_04_HerosCode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_05_Pirates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalExam/Problem1_PasswordValidator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalExam/Problem2_EncryptingPassword.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalExam/Problem3_WildZoo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/FinalExam/Theory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Lec5_Lists/PrintArrays_Lists_LAMBDAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/PrintArrays_Lists_LAMBDAS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES-Regex" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESArraysWithStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESCollectionsWithStreams.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESHashMapFunc.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESImmutableList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESPrintingHashMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_ReadArrayFromConsole.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_ReadListFromConsoleITEMPLATES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_Strings" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_TypesOfLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/resources/Tasks/FinalExam/02/03. Plant Discovery_Problem Description.docx" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/PF-Java-CheatSheet.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/CheatSheet_MidExam.pdf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists/01.AssociativeArrays.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/Tasks/AssociativeArrays/01.AssociativeArrays.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/ReadArrayFromConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec3_Arrays/RULES_ReadArrayFromConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec5_Lists/PrintList.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec5_Lists/ReadListFromConsoleITEMPLATES.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec5_Lists/RULES_ReadListFromConsoleITEMPLATES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec5_Lists/TypesOfLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec5_Lists/RULES_TypesOfLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESHashMapFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESHashMapFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESPrintingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESPrintingHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/RULES_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec8_Strings/RULES_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec9_Regex/RULES-Regex" beforeDir="false" afterPath="$PROJECT_DIR$/src/Lec9_Regex/RULES-Regex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/ArrayModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/ArrayModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/ArrayMofifier2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/ArrayMofifier2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/BiscuitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/BiscuitFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/BlackFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/BlackFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/BonusScoringSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/BonusScoringSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/CounterStrike.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/CounterStrike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/Groceries.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/Groceries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/GuineaPig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/GuineaPig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/HeartDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/HeartDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/ListFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/ListFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/ManOWar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/ManOWar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/MovingTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/MovingTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/NOTES_LIST_Functions" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/NOTES_LIST_Functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/NumberList_withDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/NumberList_withDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/NumberList_withReadyMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/NumberList_withReadyMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/Numbers_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/Numbers_Lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/REceprion.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/REceprion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/Reception.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/Reception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/SchoolLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/SchoolLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/ShootForTheWIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/ShootForTheWIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/SpaceTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/SpaceTravel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MidExamPrep/TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ExamPrep_MidExam/TreasureHunt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/BUBBLESORTARRAY_CONTROLFLOW_PRINTARRAY" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/BUBBLESORTARRAY_CONTROLFLOW_PRINTARRAY" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/CONTROL_FLOW" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/CONTROL_FLOW" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/CheatSheet_MidExam.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/CheatSheet_MidExam.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/CheetSheet_FinalExam" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/CheetSheet_FinalExam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IntelliJIDEA_ReferenceCard.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/IntelliJIDEA_ReferenceCard.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_Arraya" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_Arraya" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_BasicSyntax" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_BasicSyntax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_Classes" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_Classes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_DataTypes" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_DataTypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/NOTES_LIST_Functions" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_LIST_Functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/PB-Java-How-to-create-live-template-in-intellij-idea.docx" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/PB-Java-How-to-create-live-template-in-intellij-idea.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Tasks/CheatSheet_Regex" beforeDir="false" afterPath="$PROJECT_DIR$/src/resources/IMPORTANT/CheatSheet_Regex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,47 +113,48 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources/Tasks_DataTypes_Arrays_Lists&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources/IMPORTANT",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/resources/IMPORTANT" />
+      <recent name="$PROJECT_DIR$/src/Lec9_Regex" />
+      <recent name="$PROJECT_DIR$/src/ExamPrep_FinalExam" />
       <recent name="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists" />
       <recent name="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_3" />
-      <recent name="$PROJECT_DIR$/src/Lec6_ClassesObjects" />
-      <recent name="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2" />
-      <recent name="$PROJECT_DIR$/src/resources" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/src/Lec9_Regex" />
-      <recent name="$PROJECT_DIR$/src/resources/Tasks/TesxtProcessing" />
-      <recent name="$PROJECT_DIR$/src/resources/Tasks/TesxtProcessing/Regex" />
-      <recent name="$PROJECT_DIR$/src/resources/presentations" />
+      <recent name="$PROJECT_DIR$/src/resources/IMPORTANT" />
+      <recent name="$PROJECT_DIR$/src/ExamPrep_FinalExam/02" />
       <recent name="$PROJECT_DIR$/src/resources/Tasks/AssociativeArrays" />
+      <recent name="$PROJECT_DIR$/src/resources" />
+      <recent name="$PROJECT_DIR$/src/Lec9_Regex" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="resources.IMPORTANT" />
+      <recent name="ExamPrep_FinalExam" />
       <recent name="Ex7_AssociativeArraya" />
       <recent name="MidExamPrep" />
       <recent name="Ex2_DataTypes" />
-      <recent name="Lec3_Arrays" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ExtractEmails">
-    <configuration name="ExtractEmails" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex9_Regex.ExtractEmails" />
+  <component name="RunManager" selected="Application.Problem1_PasswordValidator">
+    <configuration name="Problem1_PasswordValidator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExam.Problem1_PasswordValidator" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex9_Regex.*" />
+          <option name="PATTERN" value="FinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -109,12 +162,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LettersChangeNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex8_TextProcessing.LettersChangeNumbers" />
+    <configuration name="Problem2_EncryptingPassword" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExam.Problem2_EncryptingPassword" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex8_TextProcessing.*" />
+          <option name="PATTERN" value="FinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -122,12 +175,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SoftUniBarIncome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex9_Regex.SoftUniBarIncome" />
+    <configuration name="Problem3_WildZoo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExam.Problem3_WildZoo" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex9_Regex.*" />
+          <option name="PATTERN" value="FinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -135,12 +188,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StarEnigma" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex9_Regex.StarEnigma" />
+    <configuration name="RULESHashMapFunc" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Lec7_AssociativeArrays.RULESHashMapFunc" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex9_Regex.*" />
+          <option name="PATTERN" value="Lec7_AssociativeArrays.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -148,12 +201,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="StringExplosions" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex8_TextProcessing.StringExplosions" />
+    <configuration name="Theory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FinalExam.Theory" />
       <module name="SoftUniFundamentals" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex8_TextProcessing.*" />
+          <option name="PATTERN" value="FinalExam.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -163,11 +216,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExtractEmails" />
-        <item itemvalue="Application.StarEnigma" />
-        <item itemvalue="Application.SoftUniBarIncome" />
-        <item itemvalue="Application.LettersChangeNumbers" />
-        <item itemvalue="Application.StringExplosions" />
+        <item itemvalue="Application.Problem1_PasswordValidator" />
+        <item itemvalue="Application.Theory" />
+        <item itemvalue="Application.Problem2_EncryptingPassword" />
+        <item itemvalue="Application.Problem3_WildZoo" />
+        <item itemvalue="Application.RULESHashMapFunc" />
       </list>
     </recent_temporary>
   </component>
@@ -313,8 +366,33 @@
       <option name="project" value="LOCAL" />
       <updated>1699272629016</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Lec7 - Associative Arrays&#10;Lec8 - Text Processing&#10;Lec9 - Regex">
+      <created>1700341995702</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1700341995702</updated>
+    </task>
+    <task id="LOCAL-00021" summary="&#10;Regex - CheetSheet">
+      <created>1700343125866</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1700343125866</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Firs commit" />
@@ -335,7 +413,9 @@
     <MESSAGE value="Real Mid Exam: SchoolLibrary, SpaceTravel, BlackFlag" />
     <MESSAGE value="Lec7 Associative arrays RULES" />
     <MESSAGE value="Lec7 Associative arrays RULES &#10;Legendary Farming" />
-    <option name="LAST_COMMIT_MESSAGE" value="Lec7 Associative arrays RULES &#10;Legendary Farming" />
+    <MESSAGE value="Lec7 - Associative Arrays&#10;Lec8 - Text Processing&#10;Lec9 - Regex" />
+    <MESSAGE value="&#10;Regex - CheetSheet" />
+    <option name="LAST_COMMIT_MESSAGE" value="&#10;Regex - CheetSheet" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -521,77 +601,77 @@
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/BonusScoringSystem.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/BonusScoringSystem.java</url>
           <line>16</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/Inventory.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Inventory.java</url>
           <line>24</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/Numbers_Lists.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Numbers_Lists.java</url>
           <line>16</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/ArrayModifier.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/ArrayModifier.java</url>
           <line>15</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/ArrayMofifier2.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/ArrayMofifier2.java</url>
           <line>22</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/Reception.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Reception.java</url>
           <line>14</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/HeartDelivery.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/HeartDelivery.java</url>
           <line>18</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/Groceries.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Groceries.java</url>
           <line>16</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/GuineaPig.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/GuineaPig.java</url>
           <line>15</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/ManOWar.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/ManOWar.java</url>
           <line>70</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/TreasureHunt.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/TreasureHunt.java</url>
           <line>71</line>
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/ShootForTheWIn.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/ShootForTheWIn.java</url>
           <line>14</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/MovingTarget.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/MovingTarget.java</url>
           <line>41</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/CounterStrike.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/CounterStrike.java</url>
           <line>11</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/SchoolLibrary.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/SchoolLibrary.java</url>
           <line>38</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
@@ -740,6 +820,116 @@
           <line>14</line>
           <option name="timeStamp" value="149" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_02_PlantDiscovery.java</url>
+          <line>47</line>
+          <option name="timeStamp" value="151" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/PlantDiscoveryNew.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="152" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/PlantDiscoveryNew.java</url>
+          <line>87</line>
+          <option name="timeStamp" value="153" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/PlantDiscoveryNew.java</url>
+          <line>63</line>
+          <option name="timeStamp" value="154" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_02_WorldTour.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="156" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="158" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="159" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java</url>
+          <line>39</line>
+          <option name="timeStamp" value="160" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_03_SecretChat.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="161" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_04_HerosCode.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="162" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_04_PasswordReset.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="163" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex9_Regex/MoreEx_RageQuit.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="164" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/MoreEx_Ranking.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="166" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_05_Pirates.java</url>
+          <line>21</line>
+          <option name="timeStamp" value="169" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_05_Pirates.java</url>
+          <line>76</line>
+          <option name="timeStamp" value="170" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_05_ActivationKeys.java</url>
+          <line>43</line>
+          <option name="timeStamp" value="171" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_01_ThePianist.java</url>
+          <line>45</line>
+          <option name="timeStamp" value="172" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_01_TheImitationGame.java</url>
+          <line>27</line>
+          <option name="timeStamp" value="173" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_01_TheImitationGame.java</url>
+          <line>59</line>
+          <option name="timeStamp" value="174" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_02_PlantDiscovery1.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="175" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinalExam/Problem1_PasswordValidator.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="176" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/FinalExam/Theory.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="178" />
+        </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
           <line>5</line>
@@ -750,18 +940,18 @@
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/Numbers_Lists.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Numbers_Lists.java</url>
           <line>36</line>
-          <properties class="MidExamPrep.Numbers_Lists" method="findTopFive">
+          <properties class="ExamPrep_MidExam.Numbers_Lists" method="findTopFive">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/MidExamPrep/Numbers_Lists.java</url>
+          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Numbers_Lists.java</url>
           <line>69</line>
-          <properties class="MidExamPrep.Numbers_Lists" method="returnBiggestNumber">
+          <properties class="ExamPrep_MidExam.Numbers_Lists" method="returnBiggestNumber">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>

@@ -1,4 +1,4 @@
-package Lec7_AssociativeArrays;
+package resources.IMPORTANT;
 
 import java.util.Collection;
 import java.util.HashMap;

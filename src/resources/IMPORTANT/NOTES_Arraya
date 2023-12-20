@@ -1,0 +1,12 @@
+масивът е тромав и за разлика от листа трябва винаги да се уточнява позицията, на която се добавя число.
+Не може просто да вземеш един масив.add да му добавиш елемент. винаги трябва да уточняваш позицията и размера.
+
+int [] intArray                 // defines a reference to an Array
+intArray = new int [100]        // creates an Array
+                                // and sets intArray to refer to it
+// Because an array is an object, it's name is a reference to the array; it's not the array itself.
+// The array is stored at an address elsewhere in memory, and intArray holds only this address.
+
+//You cannot change the size of an array after it has been created.
+
+intArray = {1, 2, 3};
