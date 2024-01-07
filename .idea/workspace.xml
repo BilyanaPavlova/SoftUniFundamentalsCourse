@@ -4,7 +4,236 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Test" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Test - deleted again">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/SoftUniFundamentals.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/SoftUniFundamentals.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Algoritam_Factoriel.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex1_BasicSyntaxConStatmLoops/Algoritam_Factoriel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Algorithm_Digits_Of_Number.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex1_BasicSyntaxConStatmLoops/Algorithm_Digits_Of_Number.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/BasicSyntaxNOTES" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex1_BasicSyntaxConStatmLoops/BasicSyntaxNOTES" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Task_2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex1_BasicSyntaxConStatmLoops/Task_2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Task_4.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex1_BasicSyntaxConStatmLoops/Task_4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex1_BasicSyntaxConStatmLoops/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex1_BasicSyntaxConStatmLoops/Task_6_Factoriel_DigitsOfNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex1_BasicSyntaxConStatmLoops/Task_6_Factoriel_DigitsOfNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/BeerKegs.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/BeerKegs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/Elevator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/Elevator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/IntegerOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/IntegerOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/NOTES_Conditions" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/NOTES_Conditions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/Pokemon.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/Pokemon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/PrintASCIIPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/PrintASCIIPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/Snowballs.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/Snowballs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/SpiceMustFlow.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/SpiceMustFlow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/SumDigits.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/SumDigits.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/SumOfCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/SumOfCharacters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/TriplesOfLetters.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/TriplesOfLetters.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex2_DataTypes/WaterOverflow.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/WaterOverflow.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/More1_Sort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/More6_LadyBugs.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/NOTES_IMPORTANT_FUNCTIONS" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/NOTES_IMPORTANT_FUNCTIONS" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task10_Lift.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task10_Lift.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task1_Train_ScanningInput_Printing.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task1_Train_ScanningInput_Printing.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task2_CompareArrElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task2_CompareArrElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task2_CompareElements.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task2_CompareElements.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task3_RearrangeZIgZag.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task3_RearrangeZIgZag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task4_ArrayRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task4_ArrayRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task5_BiggestElement.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task5_BiggestElement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task6_EqualSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task6_EqualSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task7_LongestSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task7_LongestSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task8_MagicSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task8_MagicSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/Task9_ModifyArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task9_ModifyArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/TopIntegersInArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/TopIntegersInArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex3_Arrays/ZIgZag.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/ZIgZag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/AddSubtract.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/AddSubtract.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/CharractersInRange.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/CharractersInRange.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/CountVowels.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/CountVowels.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/FactorialDivision.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/FactorialDivision.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/MiddleChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/MiddleChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/MinNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/MinNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/Palindrome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/PassValidator_ReadingStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/PassValidator_ReadingStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/PrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/PrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex4_Methods/TopNumbers_SumDigitsOfANumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/TopNumbers_SumDigitsOfANumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/AnonymousThreat_StringLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/AnonymousThreat_StringLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/BombNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/BombNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/BombNumbersSoftUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/BombNumbersSoftUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/CardsGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/CardsGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/ChangeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/ChangeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/ChatGPT_CardGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/ChatGPT_CardGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/HouseParty.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/HouseParty.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/HouseParty_SoftUni.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/HouseParty_SoftUni.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/ListOperations.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/ListOperations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/OrderArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/OrderArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/PokemonDontGo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/PokemonDontGo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex5_Lists/Train.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/Train.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/Random_Generator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/Random_Generator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/articles/Article.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/articles/Article.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/articles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/articles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/orderByAge/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/orderByAge/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/orderByAge/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/orderByAge/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/personPoll/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/personPoll/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/personPoll/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/personPoll/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/students4/Main_Comparator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/students4/Main_Comparator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/students4/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/students4/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/vehicles/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/vehicles/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex6_Classes/vehicles/Vehicle.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/vehicles/Vehicle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/AMinerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/AMinerTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CompanyNames.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/CompanyNames.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/CountCharsInAString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/CountCharsInAString1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/Courses.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/Courses.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/ForceBook.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/ForceBook.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/LegendaryFarming.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/MoreEx_Ranking.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/MoreEx_Ranking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/MoreEx_Ranking1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/MoreEx_Ranking1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/Orders.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/Orders.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniExamResults.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/SoftUniExamResults.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniParking.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/SoftUniParking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex7_AssociativeArraya/Students.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/Students.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_TextProcessing/BigIntegerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/BigIntegerTask.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_TextProcessing/CeasarCypher.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/CeasarCypher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_TextProcessing/CharacterMultiplier.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/CharacterMultiplier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_TextProcessing/ExtractFile.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/ExtractFile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_TextProcessing/LettersChangeNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/LettersChangeNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_TextProcessing/MultiplyBigNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/MultiplyBigNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_TextProcessing/ReplaceRepeatingChars.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/ReplaceRepeatingChars.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_TextProcessing/StringExplosions.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/StringExplosions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex8_TextProcessing/ValidUserName.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/ValidUserName.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9_Regex/ExtractEmails.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex9_Regex/ExtractEmails.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9_Regex/MoreEx_RageQuit.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex9_Regex/MoreEx_RageQuit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9_Regex/MoreEx_WinningTicket.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex9_Regex/MoreEx_WinningTicket.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9_Regex/SoftUniBarIncome.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex9_Regex/SoftUniBarIncome.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Ex9_Regex/StarEnigma.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Ex9_Regex/StarEnigma.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/PlantDiscoveryNew.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/PlantDiscoveryNew.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_01_TheImitationGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_01_TheImitationGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_01_TheImitationGame1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_01_TheImitationGame1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_02_WorldTour.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_02_WorldTour.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_03_SecretChat.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_03_SecretChat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_04_PasswordReset.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_04_PasswordReset.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_05_ActivationKeys.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_05_ActivationKeys.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_01_AdAstra.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem2_01_AdAstra.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_02_DestinationMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem2_02_DestinationMapper.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_03_MirrorWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem2_03_MirrorWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_04_FancyBarcodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem2_04_FancyBarcodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem2_05_CoolEmoji.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem2_05_CoolEmoji.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_01_ThePianist.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_01_ThePianist.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_02_PlantDiscovery.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_02_PlantDiscovery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_02_PlantDiscovery1.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_02_PlantDiscovery1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_04_HerosCode.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_04_HerosCode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_05_Pirates.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_05_Pirates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/ArrayModifier.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/ArrayModifier.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/ArrayMofifier2.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/ArrayMofifier2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/BiscuitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/BiscuitFactory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/BlackFlag.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/BlackFlag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/BonusScoringSystem.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/BonusScoringSystem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/CounterStrike.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/CounterStrike.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/Groceries.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Groceries.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/GuineaPig.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/GuineaPig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/HeartDelivery.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/HeartDelivery.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/Inventory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Inventory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/ListFunctions.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/ListFunctions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/ManOWar.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/ManOWar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/MovingTarget.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/MovingTarget.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/NOTES_LIST_Functions" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/NOTES_LIST_Functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/NumberList_withDuplicates.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/NumberList_withDuplicates.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/NumberList_withReadyMethods.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/NumberList_withReadyMethods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/Numbers_Lists.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Numbers_Lists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/REceprion.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/REceprion.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/Reception.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Reception.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/SchoolLibrary.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/SchoolLibrary.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/ShootForTheWIn.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/ShootForTheWIn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/SpaceTravel.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/SpaceTravel.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/ExamPrep_MidExam/TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/TreasureHunt.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalExam/Problem1_PasswordValidator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/FinalExam/Problem1_PasswordValidator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalExam/Problem2_EncryptingPassword.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/FinalExam/Problem2_EncryptingPassword.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalExam/Problem3_WildZoo.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/FinalExam/Problem3_WildZoo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/FinalExam/Theory.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/FinalExam/Theory.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec1_BasicSyntaxConditionalStatementsLoops/Task_10.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec1_BasicSyntaxConditionalStatementsLoops/Task_10.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec1_BasicSyntaxConditionalStatementsLoops/Task_11.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec1_BasicSyntaxConditionalStatementsLoops/Task_11.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec1_BasicSyntaxConditionalStatementsLoops/Task_12.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec1_BasicSyntaxConditionalStatementsLoops/Task_12.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec2_DataTypes/SpecialNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec2_DataTypes/SpecialNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/DataStructBookExample1_delete_remove_reorder.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/DataStructBookExample1_delete_remove_reorder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/DataStructBookExample2_address.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/DataStructBookExample2_address.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/NOTES_Arraya" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/NOTES_Arraya" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/RULES_ReadArrayFromConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/RULES_ReadArrayFromConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/Task_4_Reverse_An_Array.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/Task_4_Reverse_An_Array.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/Task_5.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/Task_5.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/Task_6.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/Task_6.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec3_Arrays/Task_7_Condensed.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/Task_7_Condensed.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec5_Lists/PrintArrays_Lists_LAMBDAS.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec5_Lists/PrintArrays_Lists_LAMBDAS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec5_Lists/RULES_ReadListFromConsoleITEMPLATES.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec5_Lists/RULES_ReadListFromConsoleITEMPLATES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec5_Lists/RULES_TypesOfLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec5_Lists/RULES_TypesOfLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/BigFactorial.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/BigFactorial.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/RandomiseWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/RandomiseWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/SumBigNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/SumBigNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/songs/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/songs/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/songs/Song.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/songs/Song.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/students/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/students/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/students_2/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/students_2/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_3/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/students_3/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/students_3/Student.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/students_3/Student.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfOptional.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfOptional.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfPredicate.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfPredicate.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfStreamToFilterList.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfStreamToFilterList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfStremToFilterListOfObjects.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfStremToFilterListOfObjects.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/CountRealNumbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec7_AssociativeArrays/CountRealNumbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESArraysWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec7_AssociativeArrays/RULESArraysWithStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESCollectionsWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec7_AssociativeArrays/RULESCollectionsWithStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESHashMapFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec7_AssociativeArrays/RULESHashMapFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESImmutableList.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec7_AssociativeArrays/RULESImmutableList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/RULESPrintingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec7_AssociativeArrays/RULESPrintingHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/Ranking.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec7_AssociativeArrays/Ranking.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec7_AssociativeArrays/WordsSynonims.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec7_AssociativeArrays/WordsSynonims.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/BannedWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/BannedWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/DigitsLettersOthers.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/DigitsLettersOthers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/Lab_RepeatStrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/Lab_RepeatStrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/Lab_ReverseSTrings.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/Lab_ReverseSTrings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/RULES_Strings" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/RULES_Strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/RULES_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/RULES_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/RemoveWord.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/RemoveWord.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/RepeatString.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/RepeatString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/ReplaceWords.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/ReplaceWords.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec8_Strings/Substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/Substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec9_Regex/RULES-Regex" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec9_Regex/RULES-Regex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec_HTML/CenterPoint_SquareRoot.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec_HTML/CenterPoint_SquareRoot.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Lec_HTML/html_example.html" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec_HTML/html_example.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExc_Methods/ArrayManipulator.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/MoreExc_Methods/ArrayManipulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExc_Methods/DataTypes_checkStringInput.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/MoreExc_Methods/DataTypes_checkStringInput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExc_Methods/MultiplicationSign.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/MoreExc_Methods/MultiplicationSign.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/MoreExc_Methods/TribonaciSequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/MoreExc_Methods/TribonaciSequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groomingSalon/GroomingSalon.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/groomingSalon/GroomingSalon.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groomingSalon/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/groomingSalon/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/groomingSalon/Pet.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/groomingSalon/Pet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/BUBBLESORTARRAY_CONTROLFLOW_PRINTARRAY" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/BUBBLESORTARRAY_CONTROLFLOW_PRINTARRAY" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/CONTROL_FLOW" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/CONTROL_FLOW" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/CheatSheet_MidExam.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/CheatSheet_MidExam.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/CheatSheet_Regex" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/CheatSheet_Regex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/CheetSheet_FinalExam" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/CheetSheet_FinalExam" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/IntelliJIDEA_ReferenceCard.pdf" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/IntelliJIDEA_ReferenceCard.pdf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_Arraya" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/NOTES_Arraya" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_BasicSyntax" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/NOTES_BasicSyntax" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_Classes" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/NOTES_Classes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_DataTypes" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/NOTES_DataTypes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/NOTES_LIST_Functions" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/NOTES_LIST_Functions" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/PB-Java-How-to-create-live-template-in-intellij-idea.docx" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/PB-Java-How-to-create-live-template-in-intellij-idea.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/PrintArrays_Lists_LAMBDAS.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/PrintArrays_Lists_LAMBDAS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES-Regex" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULES-Regex" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESArraysWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULESArraysWithStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESCollectionsWithStreams.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULESCollectionsWithStreams.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESHashMapFunc.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULESHashMapFunc.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESImmutableList.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULESImmutableList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULESPrintingHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULESPrintingHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_ReadArrayFromConsole.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULES_ReadArrayFromConsole.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_ReadListFromConsoleITEMPLATES.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULES_ReadListFromConsoleITEMPLATES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_Strings" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULES_Strings" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULES_Strings.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/IMPORTANT/RULES_TypesOfLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/RULES_TypesOfLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Tasks/AssociativeArrays/01.AssociativeArrays.docx" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/Tasks/AssociativeArrays/01.AssociativeArrays.docx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/resources/Tasks/FinalExam/02/03. Plant Discovery_Problem Description.docx" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/Tasks/FinalExam/02/03. Plant Discovery_Problem Description.docx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -28,18 +257,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources/IMPORTANT&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editing.templates&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "jdk.selected.JAVA_MODULE": "11",
+    "last_opened_file_path": "/Users/bilyana.aneva/Documents/SoftUniFundamentals/src/resources/IMPORTANT",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "editing.templates"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/src/resources/IMPORTANT" />
@@ -302,7 +532,28 @@
       <option name="project" value="LOCAL" />
       <updated>1703065528545</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Test -deleted">
+      <created>1703065664375</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1703065664375</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Test - created">
+      <created>1703065837032</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1703065837032</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Test - deleted again">
+      <created>1703065908963</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1703065908963</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -338,550 +589,553 @@
     <MESSAGE value="Lec7 - Associative Arrays&#10;Lec8 - Text Processing&#10;Lec9 - Regex" />
     <MESSAGE value="&#10;Regex - CheetSheet" />
     <MESSAGE value="Test" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test" />
+    <MESSAGE value="Test -deleted" />
+    <MESSAGE value="Test - created" />
+    <MESSAGE value="Test - deleted again" />
+    <option name="LAST_COMMIT_MESSAGE" value="Test - deleted again" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec3_Arrays/Task_4_Reverse_An_Array.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/Task_4_Reverse_An_Array.java</url>
           <line>16</line>
           <option name="timeStamp" value="2" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec3_Arrays/DataStructBookExample1_delete_remove_reorder.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec3_Arrays/DataStructBookExample1_delete_remove_reorder.java</url>
           <line>20</line>
           <option name="timeStamp" value="3" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/Task6_EqualSum.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task6_EqualSum.java</url>
           <line>21</line>
           <option name="timeStamp" value="5" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/Task7_LongestSequence.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task7_LongestSequence.java</url>
           <line>18</line>
           <option name="timeStamp" value="6" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/Task10_Lift.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/Task10_Lift.java</url>
           <line>23</line>
           <option name="timeStamp" value="13" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/More1_Sort.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/More1_Sort.java</url>
           <line>53</line>
           <option name="timeStamp" value="18" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/More6_LadyBugs.java</url>
           <line>40</line>
           <option name="timeStamp" value="20" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/More6_LadyBugs.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/More6_LadyBugs.java</url>
           <line>25</line>
           <option name="timeStamp" value="22" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/Elevator.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/Elevator.java</url>
           <line>11</line>
           <option name="timeStamp" value="23" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/Elevator.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/Elevator.java</url>
           <line>27</line>
           <option name="timeStamp" value="25" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/SumOfCharacters.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/SumOfCharacters.java</url>
           <line>8</line>
           <option name="timeStamp" value="27" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/TriplesOfLetters.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/TriplesOfLetters.java</url>
           <line>15</line>
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/SpiceMustFlow.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/SpiceMustFlow.java</url>
           <line>14</line>
           <option name="timeStamp" value="30" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/Pokemon.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/Pokemon.java</url>
           <line>14</line>
           <option name="timeStamp" value="31" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex2_DataTypes/Snowballs.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex2_DataTypes/Snowballs.java</url>
           <line>18</line>
           <option name="timeStamp" value="32" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec2_DataTypes/SpecialNumbers.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec2_DataTypes/SpecialNumbers.java</url>
           <line>18</line>
           <option name="timeStamp" value="33" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec2_DataTypes/SpecialNumbers.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec2_DataTypes/SpecialNumbers.java</url>
           <line>10</line>
           <option name="timeStamp" value="34" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/DataTypes_checkStringInput.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/MoreExc_Methods/DataTypes_checkStringInput.java</url>
           <line>10</line>
           <option name="timeStamp" value="35" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/Palindrome.java</url>
           <line>9</line>
           <option name="timeStamp" value="36" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex4_Methods/TopNumbers_SumDigitsOfANumber.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/TopNumbers_SumDigitsOfANumber.java</url>
           <line>10</line>
           <option name="timeStamp" value="38" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex4_Methods/PassValidator_ReadingStrings.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/PassValidator_ReadingStrings.java</url>
           <line>10</line>
           <option name="timeStamp" value="40" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/ArrayManipulator.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/MoreExc_Methods/ArrayManipulator.java</url>
           <line>13</line>
           <option name="timeStamp" value="42" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/ArrayManipulator.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/MoreExc_Methods/ArrayManipulator.java</url>
           <line>26</line>
           <option name="timeStamp" value="43" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/MoreExc_Methods/TribonaciSequence.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/MoreExc_Methods/TribonaciSequence.java</url>
           <line>21</line>
           <option name="timeStamp" value="44" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/Courses.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/Courses.java</url>
           <line>21</line>
           <option name="timeStamp" value="50" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/PokemonDontGo.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/PokemonDontGo.java</url>
           <line>25</line>
           <option name="timeStamp" value="51" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/OrderArrays.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/OrderArrays.java</url>
           <line>9</line>
           <option name="timeStamp" value="53" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/CardsGame.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/CardsGame.java</url>
           <line>20</line>
           <option name="timeStamp" value="54" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/BombNumbers.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/BombNumbers.java</url>
           <line>26</line>
           <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/ListOperations.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/ListOperations.java</url>
           <line>19</line>
           <option name="timeStamp" value="57" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/ListOperations.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/ListOperations.java</url>
           <line>45</line>
           <option name="timeStamp" value="58" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/HouseParty.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/HouseParty.java</url>
           <line>20</line>
           <option name="timeStamp" value="61" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/HouseParty_SoftUni.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/HouseParty_SoftUni.java</url>
           <line>13</line>
           <option name="timeStamp" value="62" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/ChangeList.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/ChangeList.java</url>
           <line>27</line>
           <option name="timeStamp" value="63" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/ChangeList.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/ChangeList.java</url>
           <line>22</line>
           <option name="timeStamp" value="64" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex5_Lists/Train.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex5_Lists/Train.java</url>
           <line>28</line>
           <option name="timeStamp" value="66" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/BonusScoringSystem.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/BonusScoringSystem.java</url>
           <line>16</line>
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Inventory.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Inventory.java</url>
           <line>24</line>
           <option name="timeStamp" value="69" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Numbers_Lists.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Numbers_Lists.java</url>
           <line>16</line>
           <option name="timeStamp" value="71" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/ArrayModifier.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/ArrayModifier.java</url>
           <line>15</line>
           <option name="timeStamp" value="76" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/ArrayMofifier2.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/ArrayMofifier2.java</url>
           <line>22</line>
           <option name="timeStamp" value="78" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Reception.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Reception.java</url>
           <line>14</line>
           <option name="timeStamp" value="80" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/HeartDelivery.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/HeartDelivery.java</url>
           <line>18</line>
           <option name="timeStamp" value="81" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Groceries.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Groceries.java</url>
           <line>16</line>
           <option name="timeStamp" value="82" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/GuineaPig.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/GuineaPig.java</url>
           <line>15</line>
           <option name="timeStamp" value="83" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/ManOWar.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/ManOWar.java</url>
           <line>70</line>
           <option name="timeStamp" value="84" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/TreasureHunt.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/TreasureHunt.java</url>
           <line>71</line>
           <option name="timeStamp" value="87" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/ShootForTheWIn.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/ShootForTheWIn.java</url>
           <line>14</line>
           <option name="timeStamp" value="90" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/MovingTarget.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/MovingTarget.java</url>
           <line>41</line>
           <option name="timeStamp" value="91" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/CounterStrike.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/CounterStrike.java</url>
           <line>11</line>
           <option name="timeStamp" value="92" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/SchoolLibrary.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/SchoolLibrary.java</url>
           <line>38</line>
           <option name="timeStamp" value="93" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex3_Arrays/TopIntegersInArray.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex3_Arrays/TopIntegersInArray.java</url>
           <line>16</line>
           <option name="timeStamp" value="94" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/RandomiseWords.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/RandomiseWords.java</url>
           <line>22</line>
           <option name="timeStamp" value="95" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/BigFactorial.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/BigFactorial.java</url>
           <line>11</line>
           <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/songs/Main.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/songs/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="99" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/students_2/Main.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/students_2/Main.java</url>
           <line>14</line>
           <option name="timeStamp" value="104" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfOptional.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec6_ClassesObjects/useOfStreamsAndPredicates/UseOfOptional.java</url>
           <line>12</line>
           <option name="timeStamp" value="106" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex6_Classes/vehicles/Main.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/vehicles/Main.java</url>
           <line>19</line>
           <option name="timeStamp" value="107" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex6_Classes/vehicles/Main.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex6_Classes/vehicles/Main.java</url>
           <line>20</line>
           <option name="timeStamp" value="108" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/groomingSalon/Main.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/groomingSalon/Main.java</url>
           <line>16</line>
           <option name="timeStamp" value="109" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/AMinerTask.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/AMinerTask.java</url>
           <line>17</line>
           <option name="timeStamp" value="115" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/AMinerTask.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/AMinerTask.java</url>
           <line>18</line>
           <option name="timeStamp" value="116" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/CountCharsInAString1.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/CountCharsInAString1.java</url>
           <line>15</line>
           <option name="timeStamp" value="119" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/Orders.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/Orders.java</url>
           <line>17</line>
           <option name="timeStamp" value="120" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniParking.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/SoftUniParking.java</url>
           <line>15</line>
           <option name="timeStamp" value="121" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/Students.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/Students.java</url>
           <line>13</line>
           <option name="timeStamp" value="123" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/Courses.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/Courses.java</url>
           <line>12</line>
           <option name="timeStamp" value="124" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/LegendaryFarming.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/LegendaryFarming.java</url>
           <line>24</line>
           <option name="timeStamp" value="130" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/CompanyNames.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/CompanyNames.java</url>
           <line>34</line>
           <option name="timeStamp" value="132" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/ForceBook.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/ForceBook.java</url>
           <line>11</line>
           <option name="timeStamp" value="136" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/ForceBook.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/ForceBook.java</url>
           <line>12</line>
           <option name="timeStamp" value="137" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniExamResults.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/SoftUniExamResults.java</url>
           <line>18</line>
           <option name="timeStamp" value="138" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec8_Strings/ReplaceWords.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/ReplaceWords.java</url>
           <line>15</line>
           <option name="timeStamp" value="140" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Lec8_Strings/Lab_ReverseSTrings.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/Lab_ReverseSTrings.java</url>
           <line>13</line>
           <option name="timeStamp" value="141" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex8_TextProcessing/ValidUserName.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/ValidUserName.java</url>
           <line>8</line>
           <option name="timeStamp" value="142" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex8_TextProcessing/CharacterMultiplier.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/CharacterMultiplier.java</url>
           <line>22</line>
           <option name="timeStamp" value="143" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex8_TextProcessing/MultiplyBigNumber.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/MultiplyBigNumber.java</url>
           <line>20</line>
           <option name="timeStamp" value="144" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex8_TextProcessing/LettersChangeNumbers.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex8_TextProcessing/LettersChangeNumbers.java</url>
           <line>37</line>
           <option name="timeStamp" value="145" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex9_Regex/SoftUniBarIncome.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex9_Regex/SoftUniBarIncome.java</url>
           <line>29</line>
           <option name="timeStamp" value="148" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex9_Regex/SoftUniBarIncome.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex9_Regex/SoftUniBarIncome.java</url>
           <line>14</line>
           <option name="timeStamp" value="149" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_02_PlantDiscovery.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_02_PlantDiscovery.java</url>
           <line>47</line>
           <option name="timeStamp" value="151" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/PlantDiscoveryNew.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/PlantDiscoveryNew.java</url>
           <line>85</line>
           <option name="timeStamp" value="152" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/PlantDiscoveryNew.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/PlantDiscoveryNew.java</url>
           <line>87</line>
           <option name="timeStamp" value="153" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/PlantDiscoveryNew.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/PlantDiscoveryNew.java</url>
           <line>63</line>
           <option name="timeStamp" value="154" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_02_WorldTour.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_02_WorldTour.java</url>
           <line>45</line>
           <option name="timeStamp" value="156" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java</url>
           <line>24</line>
           <option name="timeStamp" value="158" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java</url>
           <line>80</line>
           <option name="timeStamp" value="159" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_03_NeedForSpeed.java</url>
           <line>39</line>
           <option name="timeStamp" value="160" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_03_SecretChat.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_03_SecretChat.java</url>
           <line>23</line>
           <option name="timeStamp" value="161" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_04_HerosCode.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_04_HerosCode.java</url>
           <line>14</line>
           <option name="timeStamp" value="162" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_04_PasswordReset.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_04_PasswordReset.java</url>
           <line>18</line>
           <option name="timeStamp" value="163" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex9_Regex/MoreEx_RageQuit.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex9_Regex/MoreEx_RageQuit.java</url>
           <line>19</line>
           <option name="timeStamp" value="164" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/MoreEx_Ranking.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/MoreEx_Ranking.java</url>
           <line>28</line>
           <option name="timeStamp" value="166" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_05_Pirates.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_05_Pirates.java</url>
           <line>21</line>
           <option name="timeStamp" value="169" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_05_Pirates.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_05_Pirates.java</url>
           <line>76</line>
           <option name="timeStamp" value="170" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_05_ActivationKeys.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_05_ActivationKeys.java</url>
           <line>43</line>
           <option name="timeStamp" value="171" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_01_ThePianist.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_01_ThePianist.java</url>
           <line>45</line>
           <option name="timeStamp" value="172" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_01_TheImitationGame.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_01_TheImitationGame.java</url>
           <line>27</line>
           <option name="timeStamp" value="173" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem1_01_TheImitationGame.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem1_01_TheImitationGame.java</url>
           <line>59</line>
           <option name="timeStamp" value="174" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_FinalExam/Problem3_02_PlantDiscovery1.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_FinalExam/Problem3_02_PlantDiscovery1.java</url>
           <line>12</line>
           <option name="timeStamp" value="175" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FinalExam/Problem1_PasswordValidator.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/FinalExam/Problem1_PasswordValidator.java</url>
           <line>50</line>
           <option name="timeStamp" value="176" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/FinalExam/Theory.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/FinalExam/Theory.java</url>
           <line>9</line>
           <option name="timeStamp" value="178" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Ex4_Methods/Palindrome.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/Palindrome.java</url>
           <line>5</line>
-          <properties class="Ex4_Methods.Palindrome" method="main">
+          <properties class="Ex4_Methods.Palindrome">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="39" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Numbers_Lists.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Numbers_Lists.java</url>
           <line>36</line>
-          <properties class="ExamPrep_MidExam.Numbers_Lists" method="findTopFive">
+          <properties class="ExamPrep_MidExam.Numbers_Lists">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="70" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/ExamPrep_MidExam/Numbers_Lists.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/Numbers_Lists.java</url>
           <line>69</line>
-          <properties class="ExamPrep_MidExam.Numbers_Lists" method="returnBiggestNumber">
+          <properties class="ExamPrep_MidExam.Numbers_Lists">
             <option name="EMULATED" value="true" />
             <option name="WATCH_EXIT" value="false" />
           </properties>
           <option name="timeStamp" value="72" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
-          <url>file://$PROJECT_DIR$/src/Ex7_AssociativeArraya/SoftUniParking.java</url>
+          <url>file://$PROJECT_DIR$/JavaFundamentals/Ex7_AssociativeArraya/SoftUniParking.java</url>
           <line>7</line>
           <properties class="Ex7_AssociativeArraya.SoftUniParking" method="main">
             <option name="EMULATED" value="true" />
