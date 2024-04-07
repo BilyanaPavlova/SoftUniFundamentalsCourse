@@ -4,75 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="refactoring of modules">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/kotlinc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/KotlinJavaRuntime.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/Ex_P01_FillTheMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/Ex_P02_MatixOfPalindromes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/Ex_P03_DiagonalDifference.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/Ex_P04_MaximalSUm.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/Ex_P05_MatrixShuffling.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/Ex_P06_RotateMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/NOTES_Fill_Print_Matrix_Methods.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/Notes_MultidimArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/problems/Fill_By_Columns.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/IMPORTANT.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/problems/LegendaryFarming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/problems/P03_PeriodicTaple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/problems/P04_C0untSymbols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/problems/P05_FixEmails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/problems/P06_PhoneBook.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/problems/SetsOfElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/problems/UniqueUsernames.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/sorting/RULES_Largest3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/sorting/RULES_SortingCollections.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/sorting/Sorting_HashMap_ByValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/BalancedParenthesis.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/BalancedParenthesis_wrong.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/BasicQueueOper.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/BasicStackOperations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/BinaryConverter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/Browser.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/Fibonaci_Recurssion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/HotPotato_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/MatchingBrackets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/MaximumElementStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/NOTES_Shortcuts.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/NOTES_Stack_vs_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/PrimeCyclePotato_PriorityQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/PrinterQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/ReverseNumbersStack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/SimpleCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/SimpleTextEditor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex1_SumLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex2_SumBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex3_AllCapitals.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex4_CountSymbols.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex5_LineNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex6_WordCount.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex6_WordCount_withFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex7_MergeFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/Lec1_PrintInBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/Lec1_ReadFromFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/Lec2_ReadAndWriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/Lec2_WriteToFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/Lec3_CopyBytes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/Lec4_ExtractIntegers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/Lec6_Files_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/NOTES_Example.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/NOTES_Streams.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/WriteLines.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaFundamentals/JavaFundamentals.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/SoftUniJava.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="last commit before switching the macbook">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/RULES_Strings.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/Lec8_Strings/RULES_Strings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/BUBBLESORTARRAY_CONTROLFLOW_PRINTARRAY" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/BUBBLESORTARRAY_CONTROLFLOW_PRINTARRAY" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/CheatSheet_Regex" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT/CheatSheet_Regex" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -402,7 +335,14 @@
       <option name="project" value="LOCAL" />
       <updated>1704635463937</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="last commit before switching the macbook">
+      <created>1712467081830</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1712467081830</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -417,7 +357,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Firs commit" />
     <MESSAGE value="Renamed Task 7 to reflect the task title" />
     <MESSAGE value="Added Tasks file" />
     <MESSAGE value="Adding excersises on Arrays - operations with arrayas" />
@@ -442,7 +381,8 @@
     <MESSAGE value="Test - created" />
     <MESSAGE value="Test - deleted again" />
     <MESSAGE value="refactoring of modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring of modules" />
+    <MESSAGE value="last commit before switching the macbook" />
+    <option name="LAST_COMMIT_MESSAGE" value="last commit before switching the macbook" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
