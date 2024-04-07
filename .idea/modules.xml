@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/SoftUniFundamentals.iml" filepath="$PROJECT_DIR$/SoftUniFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" filepath="$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaFundamentals/JavaFundamentals.iml" filepath="$PROJECT_DIR$/JavaFundamentals/JavaFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SoftUniJava.iml" filepath="$PROJECT_DIR$/SoftUniJava.iml" />
     </modules>
   </component>
 </project>

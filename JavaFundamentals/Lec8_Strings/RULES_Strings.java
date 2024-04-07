@@ -5,7 +5,6 @@ import java.util.Arrays;
 import java.util.List;
 import java.util.Scanner;
 
-import static jdk.internal.joptsimple.internal.Strings.repeat;
 
 public class RULES_Strings {
     public static void main(String[] args) {
