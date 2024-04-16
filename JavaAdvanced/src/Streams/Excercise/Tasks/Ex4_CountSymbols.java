@@ -8,8 +8,8 @@ import java.util.Set;
 public class Ex4_CountSymbols {
     public static void main(String[] args) {
 
-        String inPath = "/Users/bilyana.aneva/Documents/SoftUniFundamentals/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/input.txt";
-        String outPath = "/Users/bilyana.aneva/Documents/SoftUniFundamentals/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex4_output.txt";
+        String inPath = "/Users/bilyana.aneva/IdeaProjects/SoftUniFundamentalsCourse/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/input.txt";
+        String outPath = "/Users/bilyana.aneva/IdeaProjects/SoftUniFundamentalsCourse/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex4_output.txt";
 
         Set <Character> voules = new HashSet<>();
         Collections.addAll(voules, 'a','o','u','e','i');

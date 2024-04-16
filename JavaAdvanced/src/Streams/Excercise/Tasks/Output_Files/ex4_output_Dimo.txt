@@ -1,0 +1,3 @@
+Vowels: 41
+Other symbols: 29
+Punctuation: 6

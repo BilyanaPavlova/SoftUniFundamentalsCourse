@@ -4,8 +4,25 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="last commit before switching the macbook">
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="refactoring of modules">
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex3_AllCapitals_functional_programming.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex4_CountSymbols_DimoExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex6_WordCount_DimoExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex3_output_functional.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex4_output_Dimo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex6_output_Dimo.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex7_Dimo_appendToFileExample" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex7_Dimo_appendToFileExample_2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/ex7_Notes_Dimo_File_Files_Path_Paths.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/Exercises Resources.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/input.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputLineNumbers.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputOne.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputTwo.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/text.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/words.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex4_CountSymbols.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex4_CountSymbols.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,41 +41,67 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "BilyanaPavlova"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/BilyanaPavlova/SoftUniFundamentalsCourse.git",
+    "accountId": "c4cb5817-23b0-42e5-895e-f79d44cc2762"
+  }
+}]]></component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 0
+}]]></component>
   <component name="ProjectId" id="2W1MsIFmr6uf5z9CGelcC6D6iPL" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/bilyana.aneva/Documents/SoftUniFundamentals/JavaFundamentals/resources/IMPORTANT&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;SDKs&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;two.files.diff.last.used.file&quot;: &quot;/Users/bilyana.aneva/Documents/SoftUniFundamentals/JavaFundamentals/resources/IMPORTANT/CheatSheet_Regex&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Ex1_SumLines.executor": "Run",
+    "Application.Ex3_AllCapitals_functional_programming.executor": "Run",
+    "Application.Ex4_CountSymbols.executor": "Run",
+    "Application.Ex4_CountSymbols_DimoExample.executor": "Run",
+    "Application.Ex6_WordCount_DimoExample.executor": "Run",
+    "Application.Notes_Dimo_File_Files_Path_Paths.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "git-widget-placeholder": "main",
+    "jdk.selected.JAVA_MODULE": "11",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "/Users/bilyana.aneva/IdeaProjects/SoftUniFundamentalsCourse/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "run.code.analysis.last.selected.profile": "pProject Default",
+    "settings.editor.selected.configurable": "preferences.pluginManager",
+    "two.files.diff.last.used.file": "/Users/bilyana.aneva/Documents/SoftUniFundamentals/JavaFundamentals/resources/IMPORTANT/CheatSheet_Regex"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files" />
       <recent name="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT" />
       <recent name="$PROJECT_DIR$/src/resources/IMPORTANT" />
       <recent name="$PROJECT_DIR$/src/Lec9_Regex" />
       <recent name="$PROJECT_DIR$/src/ExamPrep_FinalExam" />
-      <recent name="$PROJECT_DIR$/src/resources/Tasks_DataTypes_Arrays_Lists" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources" />
       <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise" />
       <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/04. Java-Advanced-Files-and-Streams-Lab-Resources" />
       <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec" />
       <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams" />
-      <recent name="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/tasks" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Streams.Excercise.Tasks" />
@@ -68,9 +111,9 @@
       <recent name="MidExamPrep" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex7_MergeFiles">
-    <configuration name="Ex4_CountSymbols" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex4_CountSymbols" />
+  <component name="RunManager" selected="Application.ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND">
+    <configuration name="Ex1_SumLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex1_SumLines" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
@@ -82,8 +125,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex5_LineNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex5_LineNumbers" />
+    <configuration name="Ex3_AllCapitals_functional_programming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex3_AllCapitals_functional_programming" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
@@ -95,8 +138,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_WordCount" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex6_WordCount" />
+    <configuration name="Ex4_CountSymbols_DimoExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex4_CountSymbols_DimoExample" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
@@ -108,8 +151,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_WordCount_withFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex6_WordCount_withFiles" />
+    <configuration name="Ex6_WordCount_DimoExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex6_WordCount_DimoExample" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
@@ -121,8 +164,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex7_MergeFiles" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex7_MergeFiles" />
+    <configuration name="ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
@@ -136,11 +179,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex7_MergeFiles" />
-        <item itemvalue="Application.Ex6_WordCount_withFiles" />
-        <item itemvalue="Application.Ex6_WordCount" />
-        <item itemvalue="Application.Ex5_LineNumbers" />
-        <item itemvalue="Application.Ex4_CountSymbols" />
+        <item itemvalue="Application.ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND" />
+        <item itemvalue="Application.Ex6_WordCount_DimoExample" />
+        <item itemvalue="Application.Ex4_CountSymbols_DimoExample" />
+        <item itemvalue="Application.Ex3_AllCapitals_functional_programming" />
+        <item itemvalue="Application.Ex1_SumLines" />
       </list>
     </recent_temporary>
   </component>
@@ -335,14 +378,7 @@
       <option name="project" value="LOCAL" />
       <updated>1704635463937</updated>
     </task>
-    <task id="LOCAL-00027" summary="last commit before switching the macbook">
-      <created>1712467081830</created>
-      <option name="number" value="00027" />
-      <option name="presentableId" value="LOCAL-00027" />
-      <option name="project" value="LOCAL" />
-      <updated>1712467081830</updated>
-    </task>
-    <option name="localTasksCounter" value="28" />
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -357,6 +393,8 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Firs commit" />
     <MESSAGE value="Renamed Task 7 to reflect the task title" />
     <MESSAGE value="Added Tasks file" />
     <MESSAGE value="Adding excersises on Arrays - operations with arrayas" />
@@ -381,8 +419,7 @@
     <MESSAGE value="Test - created" />
     <MESSAGE value="Test - deleted again" />
     <MESSAGE value="refactoring of modules" />
-    <MESSAGE value="last commit before switching the macbook" />
-    <option name="LAST_COMMIT_MESSAGE" value="last commit before switching the macbook" />
+    <option name="LAST_COMMIT_MESSAGE" value="refactoring of modules" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -991,11 +1028,6 @@
           <url>file://$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/problems/LegendaryFarming.java</url>
           <line>27</line>
           <option name="timeStamp" value="228" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex1_SumLines.java</url>
-          <line>21</line>
-          <option name="timeStamp" value="230" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex3_AllCapitals.java</url>
