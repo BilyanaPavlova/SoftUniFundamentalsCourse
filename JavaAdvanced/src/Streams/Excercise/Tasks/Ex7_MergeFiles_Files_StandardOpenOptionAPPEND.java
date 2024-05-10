@@ -7,7 +7,7 @@ import java.nio.file.Paths;
 import java.nio.file.StandardOpenOption;
 import java.util.List;
 
-public class Ex7_MergeFiles {
+public class Ex7_MergeFiles_Files_StandardOpenOptionAPPEND {
     public static void main(String[] args) throws IOException {
 
         Path pathOne = Paths.get("/Users/bilyana.aneva/Documents/SoftUniFundamentals/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/inputOne.txt");
@@ -16,8 +16,6 @@ public class Ex7_MergeFiles {
 
         List<String> linesOne = Files.readAllLines(pathOne);
         List<String> linesTwo = Files.readAllLines(pathTwo);
-
-
 
         Files.write(pathThree, linesOne, StandardOpenOption.WRITE);
         Files.write(pathThree, linesTwo, StandardOpenOption.APPEND);

@@ -10,7 +10,8 @@ import java.util.List;
 public class ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND {
     public static void main(String[] args) throws IOException{
 
-
+//Write a program that reads the contents of two text files ("inputOne.txt", "inputTwo.txt" from Resources - Exercises)
+// and merges them into a third one.
 
     /*
     * File, Files

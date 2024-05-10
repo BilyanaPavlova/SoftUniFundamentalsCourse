@@ -4,25 +4,40 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="refactoring of modules">
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex3_AllCapitals_functional_programming.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex4_CountSymbols_DimoExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex6_WordCount_DimoExample.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex3_output_functional.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex4_output_Dimo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex6_output_Dimo.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex7_Dimo_appendToFileExample" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex7_Dimo_appendToFileExample_2" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/ex7_Notes_Dimo_File_Files_Path_Paths.java" afterDir="false" />
+    <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Files, File, Path, Paths, Append to file">
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex1_ConsumerPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex2_KnightsOfHonor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex3_CustomMinFunction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex4_AppliedArithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec1_Sort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec2_SumNumbers_Functional.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec2_SumNumbers_Functional2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec3_Predicate_Queue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec4_UnaryOperator_and_Consumer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec5_FilterByAge_Filter_Objects.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec5_Predicate_Chaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/01. Sum Lines_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Course.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex10_SerialiseArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex11_SerializeObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex12_CreateZipFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex13_ZipArchive.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex8_GetFolderSize_Dimo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex8_GetFolderSize_Recursion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex9_CopyPicture.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/array.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/copyPicture.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/course.ser" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex13_files.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/files.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/Exercises Resources.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/input.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputLineNumbers.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputOne.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/inputTwo.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/text.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/Exercises Resources/words.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex4_CountSymbols.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex4_CountSymbols.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex7_MergeFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex7_MergeFiles_Files_StandardOpenOptionAPPEND.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -34,6 +49,7 @@
       <list>
         <option value="Kotlin Class" />
         <option value="package-info" />
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -41,21 +57,21 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "BilyanaPavlova"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;BilyanaPavlova&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/BilyanaPavlova/SoftUniFundamentalsCourse.git",
-    "accountId": "c4cb5817-23b0-42e5-895e-f79d44cc2762"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/BilyanaPavlova/SoftUniFundamentalsCourse.git&quot;,
+    &quot;accountId&quot;: &quot;c4cb5817-23b0-42e5-895e-f79d44cc2762&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 0
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
   <component name="ProjectId" id="2W1MsIFmr6uf5z9CGelcC6D6iPL" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -67,12 +83,32 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Application.Ex10_SerialiseArrayList.executor": "Run",
+    "Application.Ex11_SerializeObject.executor": "Run",
+    "Application.Ex13_ZipArchive.executor": "Run",
+    "Application.Ex1_ConsumerPrint.executor": "Run",
     "Application.Ex1_SumLines.executor": "Run",
+    "Application.Ex2_KnightsOfHonor.executor": "Run",
     "Application.Ex3_AllCapitals_functional_programming.executor": "Run",
+    "Application.Ex3_CustomMinFunction.executor": "Run",
+    "Application.Ex4_AppliedArithmetic.executor": "Run",
     "Application.Ex4_CountSymbols.executor": "Run",
     "Application.Ex4_CountSymbols_DimoExample.executor": "Run",
     "Application.Ex6_WordCount_DimoExample.executor": "Run",
+    "Application.Ex8_GetFolderSize.executor": "Run",
+    "Application.Ex8_GetFolderSize_Dimo.executor": "Run",
+    "Application.Ex9_CopyPicture.executor": "Run",
+    "Application.Lec1_Sort.executor": "Run",
+    "Application.Lec2_SumNumbers_Functional.executor": "Run",
+    "Application.Lec2_SumNumbers_Functional2.executor": "Run",
+    "Application.Lec3_Predicate_Queue.executor": "Run",
+    "Application.Lec4_UnaryOperator.executor": "Debug",
+    "Application.Lec4_UnaryOperator_and_Consumer.executor": "Run",
+    "Application.Lec5_FilterByAge_Filter_Objects.executor": "Run",
+    "Application.Lec5_Predicate_Chaining.executor": "Run",
+    "Application.NOTES.executor": "Run",
     "Application.Notes_Dimo_File_Files_Path_Paths.executor": "Run",
+    "Application.ex7_Notes_Dimo_File_Files_Path_Paths.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -80,7 +116,7 @@
     "jdk.selected.JAVA_MODULE": "11",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "/Users/bilyana.aneva/IdeaProjects/SoftUniFundamentalsCourse/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files",
-    "project.structure.last.edited": "SDKs",
+    "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
     "run.code.analysis.last.selected.profile": "pProject Default",
@@ -97,11 +133,11 @@
       <recent name="$PROJECT_DIR$/src/ExamPrep_FinalExam" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources" />
       <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise" />
+      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks" />
+      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources" />
       <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/04. Java-Advanced-Files-and-Streams-Lab-Resources" />
       <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec" />
-      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Streams.Excercise.Tasks" />
@@ -111,13 +147,13 @@
       <recent name="MidExamPrep" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND">
-    <configuration name="Ex1_SumLines" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex1_SumLines" />
+  <component name="RunManager" selected="Application.Ex4_AppliedArithmetic">
+    <configuration name="Ex1_ConsumerPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Excersises.Ex1_ConsumerPrint" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.Excercise.Tasks.*" />
+          <option name="PATTERN" value="FunctionalProgramming.Excersises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -125,12 +161,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3_AllCapitals_functional_programming" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex3_AllCapitals_functional_programming" />
+    <configuration name="Ex2_KnightsOfHonor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Excersises.Ex2_KnightsOfHonor" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.Excercise.Tasks.*" />
+          <option name="PATTERN" value="FunctionalProgramming.Excersises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -138,12 +174,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4_CountSymbols_DimoExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex4_CountSymbols_DimoExample" />
+    <configuration name="Ex3_CustomMinFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Excersises.Ex3_CustomMinFunction" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.Excercise.Tasks.*" />
+          <option name="PATTERN" value="FunctionalProgramming.Excersises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -151,12 +187,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex6_WordCount_DimoExample" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.Ex6_WordCount_DimoExample" />
+    <configuration name="Ex4_AppliedArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Excersises.Ex4_AppliedArithmetic" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.Excercise.Tasks.*" />
+          <option name="PATTERN" value="FunctionalProgramming.Excersises.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,12 +200,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Streams.Excercise.Tasks.ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND" />
+    <configuration name="Lec5_FilterByAge_Filter_Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Lec.Lec5_FilterByAge_Filter_Objects" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Streams.Excercise.Tasks.*" />
+          <option name="PATTERN" value="FunctionalProgramming.Lec.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -179,11 +215,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND" />
-        <item itemvalue="Application.Ex6_WordCount_DimoExample" />
-        <item itemvalue="Application.Ex4_CountSymbols_DimoExample" />
-        <item itemvalue="Application.Ex3_AllCapitals_functional_programming" />
-        <item itemvalue="Application.Ex1_SumLines" />
+        <item itemvalue="Application.Ex4_AppliedArithmetic" />
+        <item itemvalue="Application.Ex3_CustomMinFunction" />
+        <item itemvalue="Application.Ex2_KnightsOfHonor" />
+        <item itemvalue="Application.Ex1_ConsumerPrint" />
+        <item itemvalue="Application.Lec5_FilterByAge_Filter_Objects" />
       </list>
     </recent_temporary>
   </component>
@@ -378,7 +414,15 @@
       <option name="project" value="LOCAL" />
       <updated>1704635463937</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Files, File, Path, Paths, Append to file">
+      <option name="closed" value="true" />
+      <created>1713250507296</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1713250507296</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -394,7 +438,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Firs commit" />
     <MESSAGE value="Renamed Task 7 to reflect the task title" />
     <MESSAGE value="Added Tasks file" />
     <MESSAGE value="Adding excersises on Arrays - operations with arrayas" />
@@ -419,7 +462,8 @@
     <MESSAGE value="Test - created" />
     <MESSAGE value="Test - deleted again" />
     <MESSAGE value="refactoring of modules" />
-    <option name="LAST_COMMIT_MESSAGE" value="refactoring of modules" />
+    <MESSAGE value="Files, File, Path, Paths, Append to file" />
+    <option name="LAST_COMMIT_MESSAGE" value="Files, File, Path, Paths, Append to file" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -1043,6 +1087,21 @@
           <url>file://$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex6_WordCount.java</url>
           <line>50</line>
           <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec4_UnaryOperator_and_Consumer.java</url>
+          <line>61</line>
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex4_AppliedArithmetic.java</url>
+          <line>50</line>
+          <option name="timeStamp" value="242" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/Palindrome.java</url>
