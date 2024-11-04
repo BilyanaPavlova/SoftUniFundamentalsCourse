@@ -5,13 +5,13 @@ import java.util.LinkedHashSet;
 import java.util.Scanner;
 import java.util.stream.Collectors;
 
-public class IMPORTANT {
+public class IMPORTANT_differences_between_Sets {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         //Sets
         // - very fast searching, removing, adding
-        //- unique elements - no duplicates (if you add a duplicate , it is ignored
+        //- unique elements - no duplicates (if you add a duplicate , it is ignored !!!!!!!!!
         //-backed by hash tables
 
         //HashSet - not ordered (tree)

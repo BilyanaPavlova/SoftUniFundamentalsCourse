@@ -1,8 +1,11 @@
 package FunctionalProgramming.Excersises;
 
 import java.util.Arrays;
+import java.util.Collections;
 import java.util.List;
 import java.util.Scanner;
+import java.util.function.Consumer;
+import java.util.function.UnaryOperator;
 import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 
@@ -44,22 +47,55 @@ public class Ex4_AppliedArithmetic {
 //                .mapToInt(Integer::parseInt)
 //                .sum();
 
+// -------------First way --------------------
+//        String command = sc.nextLine();
+
+//        while(!command.equals("end")){
+//            switch (command) {
+//                case "add":
+//                    intArray = Arrays.stream(intArray).map(n -> n + 1).toArray();
+//                    break;
+//                case "multiply":
+//                    intArray = Arrays.stream(intArray).map(n -> n * 2).toArray();
+//                    break;
+//                case"subtract":
+//                    intArray = Arrays.stream(intArray).map(n -> n - 1).toArray();
+//                    break;
+//                case "print":
+//                    Arrays.stream(intArray).forEach(n -> System.out.print( n + " "));
+//                    System.out.println();
+//                    break;
+//            }
+//            command = sc.nextLine();
+//        }
+
+
+        // -------- Second way --------------
+
+        // for each number from the array -> add 1 and return a new array - the UnaryOperator takes int[] and returns the modified int[]
+        UnaryOperator<int[]> adder = arr -> Arrays.stream(arr).map(n -> n + 1).toArray();
+        UnaryOperator<int[]> subtracter = arr -> Arrays.stream(arr).map(n -> n - 1).toArray();
+        UnaryOperator<int[]> multiplier = arr -> Arrays.stream(arr).map(n -> n * 2).toArray();
+
+        //print with Consumer
+        Consumer<int[]> printer = arr -> Arrays.stream(arr).forEach(n -> System.out.print( n + " "));
 
         String command = sc.nextLine();
 
         while(!command.equals("end")){
             switch (command) {
                 case "add":
-                    intArray = Arrays.stream(intArray).map(n -> n + 1).toArray();
+                    intArray = adder.apply(intArray);
                     break;
                 case "multiply":
-                    intArray = Arrays.stream(intArray).map(n -> n * 2).toArray();
+                    intArray = multiplier.apply(intArray);
                     break;
                 case"subtract":
-                    intArray = Arrays.stream(intArray).map(n -> n - 1).toArray();
+                    intArray = subtracter.apply(intArray);
                     break;
                 case "print":
-                    Arrays.stream(intArray).forEach(n -> System.out.print( n + " "));
+                    printer.accept(intArray);
+                    System.out.println();
                     break;
             }
             command = sc.nextLine();

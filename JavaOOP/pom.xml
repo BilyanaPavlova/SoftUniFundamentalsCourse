@@ -1,0 +1,46 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+    <modelVersion>4.0.0</modelVersion>
+
+    <groupId>com.softuni</groupId>
+    <artifactId>javaOOP</artifactId>
+    <version>1.0-SNAPSHOT</version>
+
+    <properties>
+        <maven.compiler.source>17</maven.compiler.source>
+        <maven.compiler.target>17</maven.compiler.target>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+
+    </properties>
+
+    <dependencies>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-api</artifactId>
+            <version>5.7.0</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
+            <groupId>org.junit.jupiter</groupId>
+            <artifactId>junit-jupiter-engine</artifactId>
+            <version>5.7.0</version>
+            <scope>test</scope>
+        </dependency>
+    </dependencies>
+
+</project>
+
+        <!--
+         what is with priority - the pom.xml file or the project structure language I have set
+
+         The `pom.xml` file and the Project Structure settings in IntelliJ IDEA serve different purposes and can both influence the version of Java used in your project.
+
+The `pom.xml` file is used by Maven to manage your project's build and dependencies. The `maven.compiler.source` and `maven.compiler.target` properties in the `pom.xml` file determine the Java version used by Maven for compiling your project.
+
+On the other hand, the Project Structure settings in IntelliJ IDEA determine the Java SDK used by the IDE for things like code completion, syntax highlighting, and running the application directly from the IDE.
+
+If there's a mismatch between the Java version specified in the `pom.xml` file and the one set in the Project Structure settings, you might encounter issues. For example, if you're using Java features that are available in the SDK version set in IntelliJ IDEA but not in the version specified in the `pom.xml` file, your code might compile and run fine in the IDE but fail when built with Maven.
+
+So, in a way, both are important and should be kept in sync to avoid potential issues. If you're primarily building your project using Maven, then the version specified in the `pom.xml` file would take precedence.
+        -->

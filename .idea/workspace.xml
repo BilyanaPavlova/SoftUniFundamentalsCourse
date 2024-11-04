@@ -5,39 +5,196 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a984f94a-06ed-47f6-9acf-184f3be4c415" name="Changes" comment="Files, File, Path, Paths, Append to file">
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex1_ConsumerPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex2_KnightsOfHonor.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex3_CustomMinFunction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex4_AppliedArithmetic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec1_Sort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec2_SumNumbers_Functional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec2_SumNumbers_Functional2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec3_Predicate_Queue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec4_UnaryOperator_and_Consumer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec5_FilterByAge_Filter_Objects.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec5_Predicate_Chaining.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/01. Sum Lines_Problem Description.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Course.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex10_SerialiseArrayList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex11_SerializeObject.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex12_CreateZipFile.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex13_ZipArchive.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex8_GetFolderSize_Dimo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex8_GetFolderSize_Recursion.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex9_CopyPicture.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/array.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/copyPicture.jpg" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/course.ser" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files/ex13_files.zip" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/img.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/files.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex1/Archive.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex1/Ex1_OptionalPoll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex1/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex2/Department.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex2/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex2/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex2/ex2.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex3/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex3/ex3.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex4/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex4/Cargo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex4/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex4/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex4/Tyre.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex4/ex4.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex5/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex5/Engine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex5/ex5.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex7_nested_classes/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex7_nested_classes/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex7_nested_classes/ex7.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex8_review_for_exam/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex8_review_for_exam/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex8_review_for_exam/ex8_review_for_exam.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex9_polimorphism_exam_review/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex9_polimorphism_exam_review/Cymric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex9_polimorphism_exam_review/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex9_polimorphism_exam_review/Siamese.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex9_polimorphism_exam_review/StreetExtraordinaire.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex9_polimorphism_exam_review/ex9.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Lecture/ConsturctorChaining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Lecture/NOTES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Lecture/NestedClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Lecture/NotesOnDataStructures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Lecture/StaticFieldAndMethods.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Workshops_DataStructures/07-Java-Advanced-Workshop-Custom-Data-Structures-Exercise.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Workshops_DataStructures/07. Java-Advanced-Workshop-Custom-Data-Structures-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Workshops_DataStructures/CustomLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Workshops_DataStructures/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/EX_10_1_ProperDecisionOnPredicateParty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex10_PredicatePArty.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex11_PartyReservationFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex5_ReverseExcludeCollection.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex6_PredicateForNames.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex7_SmallestInteger.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex8_CustomComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex9_ListOfPredicates.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES_Class_manipulate_classes_at_runtime.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES_OPTIONAL.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES_StreamOnMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES_differences_between_data_structures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/MOST_IMPORTANT.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/importantMethods/flatMapToDuplicateElementsInStrean.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/importantMethods/streamMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/ex01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/ex01/ex01_GenericBox.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/ex03/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/ex03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/ex03/Utilities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/ex07/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/ex07/Sorter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/ex07/Store.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/examples/GenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/examples/NonGenericClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/tuple/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/excercises/tuple/Tuple.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/Excercises_NOTES.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/Lecture_Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/arrayCreator/ArrayCreator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/arrayCreator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/img.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/img_1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/jarOfPickles/Jar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/jarOfPickles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/jarOfPickles/Pickle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/listUtils/ListUtils.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/listUtils/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/scale/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/scale/Scale.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/lecture/scale/Thing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/resources/08-Java-Advanced-Generics-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/resources/08-Java-Advanced-Generics-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Generics/resources/Presentation_08-Java-Advanced-Generics.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/exams/P02_10April24_Escape_The_Maze.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/exams/PiePursuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/algorithms/lec/Notes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/algorithms/lec/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/ScannerHasNextExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task01/01-Pie-Pursuit-Problem-Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task01/PiePursuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task02/02-Escape-the-Maze-Problem-Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task02/EscapeMazeOPTIMIZED.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task02/EscapeMaze_EXAM_SEE.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task03/03-Spacecrafts-Problem-Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task03/spaceCrafts/LaunchPad.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task03/spaceCrafts/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task03/spaceCrafts/Spacecraft.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/febr_17_24/02-Clear-Skies-Problem-Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/febr_17_24/task01/01-Chicken-Snack-Problem-Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/febr_17_24/task01/ChickenSnack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/febr_17_24/task02/JetFighter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/febr_17_24/task03/03-Chasing-Sharks-Problem-Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/june_22_24/task02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/june_22_24/task02_var.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_14_22/task03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_17_22/task01/task01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_17_22/task02_BEE_EXAM_MATRIX_TO_SEE/task02_BEE_MATRIX_EXAM.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_17_22/task03/Bakery.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_17_22/task03/Employee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_17_22/task03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task01/01. Energy Drinks_Problem Description (1).docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task01/EnergyDrinks.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task02/02. Rally Racing_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task02/Race.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task03/03. Animal Shelter_Problem Description.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task03/shelter/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task03/shelter/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task03/shelter/Shelter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/09. Java-Advanced-Iterators-and-Comparators-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/USE_COMPARATOR/NOTES_Compar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/USE_COMPARATOR/ex06/AgeComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/USE_COMPARATOR/ex06/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/USE_COMPARATOR/ex06/NameComparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/USE_COMPARATOR/ex06/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/USE_CUSTOM_ITEARTOR/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/USE_CUSTOM_ITEARTOR/MyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex03/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex03/MyStack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex04/Lake.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex04/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex05_Comparable/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex05_Comparable/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex06.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex07_comparing_Objects_based_on_equal_and_hashCode_methods/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex07_comparing_Objects_based_on_equal_and_hashCode_methods/NOTES_EQUAL_HASHCODE_FOR_HASHSETS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex07_comparing_Objects_based_on_equal_and_hashCode_methods/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex08_Pets_Clinics/Clinic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex08_Pets_Clinics/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex08_Pets_Clinics/Pet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex08_Pets_Clinics/Room.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/exc01/ListyIterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/exc01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/lec/FOR_EXAM_Notes_Varargs_Iterable_Iterator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/lec/NOTES_ITERATOT_EXPLANATION.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/lec/Notes_Comparable_Comparator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/lec/ex01/Book.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/lec/ex01/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/lec/ex02/Library.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/lec/ex02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/resources/09-Java-Advanced-Iterators-and-Comparators-Lab.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/resources/09-Java-Advanced-Iterators-and-Comparators.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/sharkHaunt.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/sharkHaunt/Basin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaAdvanced/src/sharkHaunt/Shark.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/JavaOOP.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/05. Java-OOP-Polymorphism-Exercises.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/calculator/CalculationEngine.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/calculator/DivisionOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/calculator/InputInterpreter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/calculator/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/calculator/MultiplicationOperation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/calculator/Operation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/word/Command.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/word/CommandImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/word/CommandInterface.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/word/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/Skeletons/word/TextTransform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/vehicles/Bus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/vehicles/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/vehicles/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/vehicles/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/vehicles/Truck.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/vehicles/Vehicle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/Polymorphism/vehicles/VehicleImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/src/main/java/UnitTesting/UnitTesting/10-Java-OOP-Unit-Testing_Presentation.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/src/main/java/UnitTesting/UnitTesting/calculator/Calculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/JavaOOP/src/test/java/UnitTesting/calculator/CalculatorTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex7_MergeFiles.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Ex7_MergeFiles_Files_StandardOpenOptionAPPEND.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/ex7_NOTES_Dimo_File_Files_Path_Paths_APPEND.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex4_AppliedArithmetic.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex4_AppliedArithmetic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec5_Predicate_Chaining.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/Lec5_Predicate_Chaining.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/IMPORTANT.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaAdvanced/src/Sets_And_Maps/IMPORTANT_differences_between_Sets.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/TreasureHunt.java" beforeDir="false" afterPath="$PROJECT_DIR$/JavaFundamentals/ExamPrep_MidExam/TreasureHunt.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,6 +208,7 @@
         <option value="package-info" />
         <option value="Interface" />
         <option value="Class" />
+        <option value="JUnit5 Test Class" />
       </list>
     </option>
   </component>
@@ -80,64 +238,135 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_ADD_EXTERNAL_FILES": "true",
-    "Application.Ex10_SerialiseArrayList.executor": "Run",
-    "Application.Ex11_SerializeObject.executor": "Run",
-    "Application.Ex13_ZipArchive.executor": "Run",
-    "Application.Ex1_ConsumerPrint.executor": "Run",
-    "Application.Ex1_SumLines.executor": "Run",
-    "Application.Ex2_KnightsOfHonor.executor": "Run",
-    "Application.Ex3_AllCapitals_functional_programming.executor": "Run",
-    "Application.Ex3_CustomMinFunction.executor": "Run",
-    "Application.Ex4_AppliedArithmetic.executor": "Run",
-    "Application.Ex4_CountSymbols.executor": "Run",
-    "Application.Ex4_CountSymbols_DimoExample.executor": "Run",
-    "Application.Ex6_WordCount_DimoExample.executor": "Run",
-    "Application.Ex8_GetFolderSize.executor": "Run",
-    "Application.Ex8_GetFolderSize_Dimo.executor": "Run",
-    "Application.Ex9_CopyPicture.executor": "Run",
-    "Application.Lec1_Sort.executor": "Run",
-    "Application.Lec2_SumNumbers_Functional.executor": "Run",
-    "Application.Lec2_SumNumbers_Functional2.executor": "Run",
-    "Application.Lec3_Predicate_Queue.executor": "Run",
-    "Application.Lec4_UnaryOperator.executor": "Debug",
-    "Application.Lec4_UnaryOperator_and_Consumer.executor": "Run",
-    "Application.Lec5_FilterByAge_Filter_Objects.executor": "Run",
-    "Application.Lec5_Predicate_Chaining.executor": "Run",
-    "Application.NOTES.executor": "Run",
-    "Application.Notes_Dimo_File_Files_Path_Paths.executor": "Run",
-    "Application.ex7_Notes_Dimo_File_Files_Path_Paths.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "git-widget-placeholder": "main",
-    "jdk.selected.JAVA_MODULE": "11",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/bilyana.aneva/IdeaProjects/SoftUniFundamentalsCourse/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "run.code.analysis.last.selected.profile": "pProject Default",
-    "settings.editor.selected.configurable": "preferences.pluginManager",
-    "two.files.diff.last.used.file": "/Users/bilyana.aneva/Documents/SoftUniFundamentals/JavaFundamentals/resources/IMPORTANT/CheatSheet_Regex"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
+    &quot;Application.ChickenSnack.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefiningClasses.Excersises.ex2.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefiningClasses.Excersises.ex3.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefiningClasses.Excersises.ex4.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefiningClasses.Excersises.ex5.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefiningClasses.Excersises.ex7.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefiningClasses.Excersises.ex9.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DefiningClasses.Workshops_DataStructures.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EX_10_1_ProperDecisionOnPredicateParty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EnergyDrinks.executor&quot;: &quot;Run&quot;,
+    &quot;Application.EscapeMaze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex10_PredicatePArty.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex10_SerialiseArrayList.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex11_PartyReservationFilter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex11_SerializeObject.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex13_ZipArchive.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1_ConsumerPrint.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex1_SumLines.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex2_KnightsOfHonor.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex3_AllCapitals_functional_programming.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex3_CustomMinFunction.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex4_AppliedArithmetic.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex4_CountSymbols.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex4_CountSymbols_DimoExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex5_ReverseCollection.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex6_PredicateForNames.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex6_WordCount_DimoExample.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex8_CustomComparator.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex8_GetFolderSize.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex8_GetFolderSize_Dimo.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex9_CopyPicture.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Ex9_ListOfPredicates.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.excercises.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.excercises.ex01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.excercises.ex01_1.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.excercises.ex07.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.excercises.tuple.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.lecture.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.lecture.arrayCreator.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Generics.lecture.listUtils.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.JetFighter.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec1_Sort.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec2_SumNumbers_Functional.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec2_SumNumbers_Functional2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec3_Predicate_Queue.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec4_UnaryOperator.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Lec4_UnaryOperator_and_Consumer.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec5_FilterByAge_Filter_Objects.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Lec5_Predicate_Chaining.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Matrix.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NOTES.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NOTES_CHGPT.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NOTES_ITERATOT_EXPLANATION.executor&quot;: &quot;Run&quot;,
+    &quot;Application.NOTES_StreamOnMap.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Notes.executor&quot;: &quot;Debug&quot;,
+    &quot;Application.Notes_Dimo_File_Files_Path_Paths.executor&quot;: &quot;Run&quot;,
+    &quot;Application.P02_10April24_Escape_The_Maze.executor&quot;: &quot;Run&quot;,
+    &quot;Application.PiePursuit.executor&quot;: &quot;Run&quot;,
+    &quot;Application.RULES_Largest3.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Race.executor&quot;: &quot;Run&quot;,
+    &quot;Application.SmallestInteger.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex01_GenericBox.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ex7_Notes_Dimo_File_Files_Path_Paths.executor&quot;: &quot;Run&quot;,
+    &quot;Application.exam.febr_17_24.task03.sharkHaunt.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterable_iterator_comparable_comparator.exc.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterable_iterator_comparable_comparator.exc.ex03.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterable_iterator_comparable_comparator.exc.ex04.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterable_iterator_comparable_comparator.exc.ex05_Comparable.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterable_iterator_comparable_comparator.exc.ex06.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterable_iterator_comparable_comparator.exc.ex07_comparing_Objects_based_on_equal_and_hashCode_methods.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterable_iterator_comparable_comparator.exc.ex08_Pets_Clinics.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterable_iterator_comparable_comparator.exc.exc01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterator.lec.ex01.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.iterator.lec.ex02.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.sharkHaunt.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.spaceCrafts.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task02.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task02_var.executor&quot;: &quot;Run&quot;,
+    &quot;Application.task03.executor&quot;: &quot;Run&quot;,
+    &quot;Application.test.executor&quot;: &quot;Run&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;JUnit.CalculatorTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CalculatorTest.testSum.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Unknown [install].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary&quot;: &quot;JUnit5&quot;,
+    &quot;com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5&quot;: &quot;&quot;,
+    &quot;create.test.in.the.same.root&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;11&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/bilyana.aneva/IdeaProjects/SoftUniFundamentalsCourse/JavaOOP/src/Polymorphism&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;run.code.analysis.last.selected.profile&quot;: &quot;pProject Default&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;build.tools&quot;,
+    &quot;two.files.diff.last.used.file&quot;: &quot;/Users/bilyana.aneva/Documents/SoftUniFundamentals/JavaFundamentals/resources/IMPORTANT/CheatSheet_Regex&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/JavaOOP/src/Polymorphism" />
+      <recent name="$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24" />
       <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks/Output_Files" />
       <recent name="$PROJECT_DIR$/JavaFundamentals/resources/IMPORTANT" />
       <recent name="$PROJECT_DIR$/src/resources/IMPORTANT" />
-      <recent name="$PROJECT_DIR$/src/Lec9_Regex" />
-      <recent name="$PROJECT_DIR$/src/ExamPrep_FinalExam" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise" />
-      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/Tasks" />
-      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Excercise/04. Java-Advanced-Files-and-Streams-Exercises-Resources" />
-      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec/04. Java-Advanced-Files-and-Streams-Lab-Resources" />
-      <recent name="$PROJECT_DIR$/JavaAdvanced/src/Streams/Lec" />
+      <recent name="$PROJECT_DIR$/JavaOOP/src/excerciseFiles" />
+      <recent name="$PROJECT_DIR$/JavaAdvanced/src/exam/febr_17_24" />
+      <recent name="$PROJECT_DIR$/JavaAdvanced/src/exam/febr_17_24/task01" />
+      <recent name="$PROJECT_DIR$/JavaAdvanced/src/exam/febr_17_24/task03" />
+      <recent name="$PROJECT_DIR$/JavaOOP/src" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="UnitTesting" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Streams.Excercise.Tasks" />
@@ -147,13 +376,13 @@
       <recent name="MidExamPrep" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Ex4_AppliedArithmetic">
-    <configuration name="Ex1_ConsumerPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Excersises.Ex1_ConsumerPrint" />
+  <component name="RunManager" selected="JUnit.CalculatorTest">
+    <configuration name="ChickenSnack" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.febr_17_24.task01.ChickenSnack" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalProgramming.Excersises.*" />
+          <option name="PATTERN" value="exam.febr_17_24.task01.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,12 +390,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex2_KnightsOfHonor" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Excersises.Ex2_KnightsOfHonor" />
+    <configuration name="JetFighter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exam.febr_17_24.task02.JetFighter" />
       <module name="JavaAdvanced" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalProgramming.Excersises.*" />
+          <option name="PATTERN" value="exam.febr_17_24.task02.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -174,12 +403,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex3_CustomMinFunction" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Excersises.Ex3_CustomMinFunction" />
-      <module name="JavaAdvanced" />
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Polymorphism.vehicles.Main" />
+      <module name="JavaOOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalProgramming.Excersises.*" />
+          <option name="PATTERN" value="Polymorphism.vehicles.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -187,39 +416,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Ex4_AppliedArithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Excersises.Ex4_AppliedArithmetic" />
-      <module name="JavaAdvanced" />
+    <configuration name="CalculatorTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaOOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalProgramming.Excersises.*" />
+          <option name="PATTERN" value="test.java.UnitTesting.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="test.java.UnitTesting.calculator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.UnitTesting.calculator.CalculatorTest" />
+      <option name="TEST_OBJECT" value="class" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lec5_FilterByAge_Filter_Objects" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="FunctionalProgramming.Lec.Lec5_FilterByAge_Filter_Objects" />
-      <module name="JavaAdvanced" />
+    <configuration name="CalculatorTest.testSum" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="JavaOOP" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="FunctionalProgramming.Lec.*" />
+          <option name="PATTERN" value="test.java.UnitTesting.calculator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <option name="PACKAGE_NAME" value="test.java.UnitTesting.calculator" />
+      <option name="MAIN_CLASS_NAME" value="test.java.UnitTesting.calculator.CalculatorTest" />
+      <option name="METHOD_NAME" value="testSum" />
+      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Ex4_AppliedArithmetic" />
-        <item itemvalue="Application.Ex3_CustomMinFunction" />
-        <item itemvalue="Application.Ex2_KnightsOfHonor" />
-        <item itemvalue="Application.Ex1_ConsumerPrint" />
-        <item itemvalue="Application.Lec5_FilterByAge_Filter_Objects" />
+        <item itemvalue="JUnit.CalculatorTest" />
+        <item itemvalue="JUnit.CalculatorTest.testSum" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="Application.JetFighter" />
+        <item itemvalue="Application.ChickenSnack" />
       </list>
     </recent_temporary>
   </component>
@@ -426,6 +660,21 @@
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="User">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="*" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
@@ -1100,8 +1349,178 @@
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex4_AppliedArithmetic.java</url>
-          <line>50</line>
+          <line>53</line>
           <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex4_AppliedArithmetic.java</url>
+          <line>85</line>
+          <option name="timeStamp" value="243" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex5_ReverseExcludeCollection.java</url>
+          <line>17</line>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex7_SmallestInteger.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex8_CustomComparator.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="250" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex9_ListOfPredicates.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/Ex11_PartyReservationFilter.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="252" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/EX_10_1_ProperDecisionOnPredicateParty.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Excersises/EX_10_1_ProperDecisionOnPredicateParty.java</url>
+          <line>49</line>
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/exams/P02_10April24_Escape_The_Maze.java</url>
+          <line>41</line>
+          <option name="timeStamp" value="265" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/MultiDimensionalArrays/exams/P02_10April24_Escape_The_Maze.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="266" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/Stacks_Queus/exams/PiePursuit.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="268" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex2/Main.java</url>
+          <line>51</line>
+          <option name="timeStamp" value="273" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex4/Main.java</url>
+          <line>53</line>
+          <option name="timeStamp" value="276" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/DefiningClasses/Excersises/ex5/Main.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="277" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/exc01/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="280" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex03/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="281" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex08_Pets_Clinics/Main.java</url>
+          <line>95</line>
+          <option name="timeStamp" value="283" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/iterable_iterator_comparable_comparator/exc/ex08_Pets_Clinics/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="290" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/oct_17_22/task01/task01.java</url>
+          <line>22</line>
+          <option name="timeStamp" value="291" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/oct_17_22/task02_BEE_EXAM_MATRIX_TO_SEE/task02_BEE_MATRIX_EXAM.java</url>
+          <line>57</line>
+          <option name="timeStamp" value="292" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/oct_17_22/task02_BEE_EXAM_MATRIX_TO_SEE/task02_BEE_MATRIX_EXAM.java</url>
+          <line>36</line>
+          <option name="timeStamp" value="293" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/oct_14_22/task03.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="294" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/oct_14_22/task03.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="295" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/june_22_24/task02.java</url>
+          <line>78</line>
+          <option name="timeStamp" value="302" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/june_22_24/task02_var.java</url>
+          <line>80</line>
+          <option name="timeStamp" value="303" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/algorithms/lec/Notes.java</url>
+          <line>31</line>
+          <option name="timeStamp" value="307" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task02/Race.java</url>
+          <line>60</line>
+          <option name="timeStamp" value="310" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/oct_22_22/task01/EnergyDrinks.java</url>
+          <line>40</line>
+          <option name="timeStamp" value="311" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task01/PiePursuit.java</url>
+          <line>28</line>
+          <option name="timeStamp" value="313" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task03/spaceCrafts/Main.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="314" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/febr_17_24/task02/JetFighter.java</url>
+          <line>20</line>
+          <option name="timeStamp" value="316" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOOP/Polymorphism/vehicles/Main.java</url>
+          <line>48</line>
+          <option name="timeStamp" value="317" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOOP/Polymorphism/vehicles/Main.java</url>
+          <line>23</line>
+          <option name="timeStamp" value="318" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/JavaOOP/src/main/java/UnitTesting/UnitTesting/calculator/Calculator.java</url>
+          <line>4</line>
+          <option name="timeStamp" value="319" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-method">
           <url>file://$PROJECT_DIR$/JavaFundamentals/Ex4_Methods/Palindrome.java</url>
@@ -1139,6 +1558,33 @@
           </properties>
           <option name="timeStamp" value="122" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/FunctionalProgramming/Lec/NOTES_differences_between_data_structures.java</url>
+          <line>35</line>
+          <properties class="FunctionalProgramming.Lec.NOTES_differences_between_data_structures" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/algorithms/lec/test.java</url>
+          <line>10</line>
+          <properties class="algorithms.lec.test" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="308" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-method">
+          <url>file://$PROJECT_DIR$/JavaAdvanced/src/exam/april_10_24/task03/spaceCrafts/Main.java</url>
+          <line>4</line>
+          <properties class="exam.april_10_24.task03.spaceCrafts.Main" method="main">
+            <option name="EMULATED" value="true" />
+            <option name="WATCH_EXIT" value="false" />
+          </properties>
+          <option name="timeStamp" value="315" />
+        </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
@@ -1152,6 +1598,9 @@
     </SUITE>
     <SUITE FILE_PATH="coverage/SoftUniFundamentals$More1_Sort.ic" NAME="More1_Sort Coverage Results" MODIFIED="1696167029501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
       <FILTER>Ex3_Arrays.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/SoftUniFundamentalsCourse$CalculatorTest.ic" NAME="CalculatorTest Coverage Results" MODIFIED="1722280720742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
+      <FILTER>test.java.UnitTesting.calculator.*</FILTER>
     </SUITE>
   </component>
 </project>

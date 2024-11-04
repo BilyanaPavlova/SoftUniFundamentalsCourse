@@ -58,7 +58,7 @@ and have no side effects. While it's not enforced in Java, writing pure function
 and maintainable code.
 
 Functional programming in Java promotes concise and readable code by emphasizing the use of functions
-and immutable data. It encourages writing code that is easier to reason about, test, and parallelize.
+and immutable data. It encourages writing code that is easier to reason about, tests, and parallelize.
 While Java is primarily an object-oriented language, the addition of functional programming features
 has made it more versatile and expressive.
 */
@@ -118,10 +118,12 @@ has made it more versatile and expressive.
 //    Function <T, R> - приема Т, прави нещо с ламбда с него и връща резултат от R тип
         //Function<String, Integer> parseString = Integer::parseInt;
         //Function<String, String> function = s -> "Hello + s";
-//    UnaryOperator<String> unaryOperator = s -> "Hello + s"; - приема 1, връща един - от еднакъв тип данни
-        // реално е същият като Function , но е глупако устойчив - гарантира, че ще има само 1 аргумент от един и същ ип
 
-//    Predicate<T> - тества с функцията си test, връща булин, примерно се ползва при filter на стриймовете
+//    UnaryOperator<String> unaryOperator = s -> "Hello + s"; - приема 1, връща един - от еднакъв тип данни
+        // реално е същият като Function , но е глупако устойчив - гарантира, че ще има само 1 аргумент от един и същ тип
+        // - какъвто тип приема, такъв тип връща
+
+//    Predicate<T> - тества с функцията си tests, връща булин, примерно се ползва при filter на стриймовете
 // Predicate<String> predicate = s-> s.lenghth() > 5;
 // In Java functional programming, Predicate<T> is a functional interface
 // that represents a boolean-valued function of a single argument.

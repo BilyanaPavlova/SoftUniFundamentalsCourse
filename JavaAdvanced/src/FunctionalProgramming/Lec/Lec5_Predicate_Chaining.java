@@ -20,7 +20,7 @@ public class Lec5_Predicate_Chaining {
             System.out.println(number);
         };
 
-        // ползване на предиката - с функцията .test()
+        // ползване на предиката - с функцията .tests()
         isGreaterThanTen.test(10);
     }
 }

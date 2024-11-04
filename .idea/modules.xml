@@ -4,6 +4,7 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" filepath="$PROJECT_DIR$/JavaAdvanced/JavaAdvanced.iml" />
       <module fileurl="file://$PROJECT_DIR$/JavaFundamentals/JavaFundamentals.iml" filepath="$PROJECT_DIR$/JavaFundamentals/JavaFundamentals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/JavaOOP/JavaOOP.iml" filepath="$PROJECT_DIR$/JavaOOP/JavaOOP.iml" />
       <module fileurl="file://$PROJECT_DIR$/SoftUniJava.iml" filepath="$PROJECT_DIR$/SoftUniJava.iml" />
     </modules>
   </component>

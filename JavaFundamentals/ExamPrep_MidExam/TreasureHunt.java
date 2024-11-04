@@ -30,7 +30,7 @@ public class TreasureHunt {
                     }
                 }
             }
-//            System.out.println(items + "test");
+//            System.out.println(items + "tests");
 
             if (command.contains("Drop")) {
 
@@ -42,7 +42,7 @@ public class TreasureHunt {
                     items.remove(idx);
                 }
             }
-//            System.out.println(items + "test");
+//            System.out.println(items + "tests");
 
             if (command.contains("Steal")) {
 
